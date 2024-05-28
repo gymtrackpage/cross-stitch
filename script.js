@@ -5,20 +5,26 @@ document.addEventListener('DOMContentLoaded', function () {
 async function convertImage() {
   const imageUrl = document.getElementById('imageUrl').value;
   const canvas = document.getElementById('canvas');
-  const ctx = canvas.getContext('2d'); 
+  const ctx = canvas.getContext('2d');
+
+  const stitchesPerInch = 14;
 
   try {
     const response = await fetch('colors.json');
     const colors = await response.json();
 
     const image = await loadImage(imageUrl);
-    canvas.width = image.width;
-    canvas.height = image.height;
-    ctx.drawImage(image, 0, 0);
 
-    // Color Matching and Pattern Generation 
+    // Calculate canvas dimensions for desired stitch density
+    canvas.width = image.width * stitchesPerInch; 
+    canvas.height = image.height * stitchesPerInch;
+
+    ctx.drawImage(image, 0, 0, canvas.width, canvas.height); // Draw resized image
+
     const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
     const pixelData = imageData.data;
+
+    const stitchSize = canvas.width / image.width; // Size of each stitch in pixels
 
     for (let i = 0; i < pixelData.length; i += 4) {
       const r = pixelData[i];
@@ -26,16 +32,18 @@ async function convertImage() {
       const b = pixelData[i + 2];
 
       const closestColor = findClosestColor(r, g, b, colors);
-      imageData.data[i] = closestColor.Red;     // Update the pixel data
-      imageData.data[i + 1] = closestColor.Green;
-      imageData.data[i + 2] = closestColor.Blue;
-    }
+      ctx.fillStyle = closestColor.Hex;
 
-    ctx.putImageData(imageData, 0, 0);
+      // Calculate stitch position
+      const x = (i / 4) % canvas.width;
+      const y = Math.floor(i / 4 / canvas.width);
+
+      // Draw a square for each stitch
+      ctx.fillRect(x - (x % stitchSize), y - (y % stitchSize), stitchSize, stitchSize); 
+    }
 
   } catch (error) {
     console.error("Error converting image:", error);
-    // Handle errors (display message, etc.)
   }
 }
 
