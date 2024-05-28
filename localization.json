@@ -1,0 +1,3916 @@
+{
+  "Sheet1": [
+    {
+      "DMC": "3713",
+      "Floss Name": "Salmon Very Light",
+      "Hex Code": "#FFE2E2",
+      "Red": "255",
+      "Green": "226",
+      "Blue": "226"
+    },
+    {
+      "DMC": "761",
+      "Floss Name": "Salmon Light",
+      "Hex Code": "#FFC9C9",
+      "Red": "255",
+      "Green": "201",
+      "Blue": "201"
+    },
+    {
+      "DMC": "760",
+      "Floss Name": "Salmon",
+      "Hex Code": "#F5ADAD",
+      "Red": "245",
+      "Green": "173",
+      "Blue": "173"
+    },
+    {
+      "DMC": "3712",
+      "Floss Name": "Salmon Medium",
+      "Hex Code": "#F18787",
+      "Red": "241",
+      "Green": "135",
+      "Blue": "135"
+    },
+    {
+      "DMC": "3328",
+      "Floss Name": "Salmon Dark",
+      "Hex Code": "#E36D6D",
+      "Red": "227",
+      "Green": "109",
+      "Blue": "109"
+    },
+    {
+      "DMC": "347",
+      "Floss Name": "Salmon Very Dark",
+      "Hex Code": "#BF2D2D",
+      "Red": "191",
+      "Green": "45",
+      "Blue": "45"
+    },
+    {
+      "DMC": "353",
+      "Floss Name": "Peach",
+      "Hex Code": "#FED7CC",
+      "Red": "254",
+      "Green": "215",
+      "Blue": "204"
+    },
+    {
+      "DMC": "352",
+      "Floss Name": "Coral Light",
+      "Hex Code": "#FD9C97",
+      "Red": "253",
+      "Green": "156",
+      "Blue": "151"
+    },
+    {
+      "DMC": "351",
+      "Floss Name": "Coral",
+      "Hex Code": "#E96A67",
+      "Red": "233",
+      "Green": "106",
+      "Blue": "103"
+    },
+    {
+      "DMC": "350",
+      "Floss Name": "Coral Medium",
+      "Hex Code": "#E04848",
+      "Red": "224",
+      "Green": "72",
+      "Blue": "72"
+    },
+    {
+      "DMC": "349",
+      "Floss Name": "Coral Dark",
+      "Hex Code": "#D21035",
+      "Red": "210",
+      "Green": "16",
+      "Blue": "53"
+    },
+    {
+      "DMC": "817",
+      "Floss Name": "Coral Red Very Dark",
+      "Hex Code": "#BB051F",
+      "Red": "187",
+      "Green": "5",
+      "Blue": "31"
+    },
+    {
+      "DMC": "3708",
+      "Floss Name": " Melon Light",
+      "Hex Code": "#FFCBD5",
+      "Red": "255",
+      "Green": "203",
+      "Blue": "213"
+    },
+    {
+      "DMC": "3706",
+      "Floss Name": "Melon Medium",
+      "Hex Code": "#FFADBC",
+      "Red": "255",
+      "Green": "173",
+      "Blue": "188"
+    },
+    {
+      "DMC": "3705",
+      "Floss Name": "Melon Dark",
+      "Hex Code": "#FF7992",
+      "Red": "255",
+      "Green": "121",
+      "Blue": "146"
+    },
+    {
+      "DMC": "3801",
+      "Floss Name": "Melon Very Dark",
+      "Hex Code": "#E74967",
+      "Red": "231",
+      "Green": "73",
+      "Blue": "103"
+    },
+    {
+      "DMC": "666",
+      "Floss Name": "Bright Red",
+      "Hex Code": "#E31D42",
+      "Red": "227",
+      "Green": "29",
+      "Blue": "66"
+    },
+    {
+      "DMC": "321",
+      "Floss Name": "Red",
+      "Hex Code": "#C72B3B",
+      "Red": "199",
+      "Green": "43",
+      "Blue": "59"
+    },
+    {
+      "DMC": "304",
+      "Floss Name": "Red Medium",
+      "Hex Code": "#B71F33",
+      "Red": "183",
+      "Green": "31",
+      "Blue": "51"
+    },
+    {
+      "DMC": "498",
+      "Floss Name": "Red Dark",
+      "Hex Code": "#A7132B",
+      "Red": "167",
+      "Green": "19",
+      "Blue": "43"
+    },
+    {
+      "DMC": "816",
+      "Floss Name": "Garnet",
+      "Hex Code": "#970B23",
+      "Red": "151",
+      "Green": "11",
+      "Blue": "35"
+    },
+    {
+      "DMC": "815",
+      "Floss Name": "Garnet Medium",
+      "Hex Code": "#87071F",
+      "Red": "135",
+      "Green": "7",
+      "Blue": "31"
+    },
+    {
+      "DMC": "814",
+      "Floss Name": "Garnet Dark",
+      "Hex Code": "#7B001B",
+      "Red": "123",
+      "Green": "0",
+      "Blue": "27"
+    },
+    {
+      "DMC": "894",
+      "Floss Name": "Carnation Very Light",
+      "Hex Code": "#FFB2BB",
+      "Red": "255",
+      "Green": "178",
+      "Blue": "187"
+    },
+    {
+      "DMC": "893",
+      "Floss Name": "Carnation Light",
+      "Hex Code": "#FC90A2",
+      "Red": "252",
+      "Green": "144",
+      "Blue": "162"
+    },
+    {
+      "DMC": "892",
+      "Floss Name": "Carnation Medium",
+      "Hex Code": "#FF798C",
+      "Red": "255",
+      "Green": "121",
+      "Blue": "140"
+    },
+    {
+      "DMC": "891",
+      "Floss Name": "Carnation Dark",
+      "Hex Code": "#FF5773",
+      "Red": "255",
+      "Green": "87",
+      "Blue": "115"
+    },
+    {
+      "DMC": "818",
+      "Floss Name": "Baby Pink",
+      "Hex Code": "#FFDFD9",
+      "Red": "255",
+      "Green": "223",
+      "Blue": "217"
+    },
+    {
+      "DMC": "957",
+      "Floss Name": "Geranium Pale",
+      "Hex Code": "#FDB5B5",
+      "Red": "253",
+      "Green": "181",
+      "Blue": "181"
+    },
+    {
+      "DMC": "956",
+      "Floss Name": "Geranium",
+      "Hex Code": "#FF9191",
+      "Red": "255",
+      "Green": "145",
+      "Blue": "145"
+    },
+    {
+      "DMC": "309",
+      "Floss Name": "Rose Dark",
+      "Hex Code": "#BA4A4A",
+      "Red": "86",
+      "Green": "74",
+      "Blue": "74"
+    },
+    {
+      "DMC": "963",
+      "Floss Name": "Dusty Rose Ultra Very Light",
+      "Hex Code": "#FFD7D7",
+      "Red": "255",
+      "Green": "215",
+      "Blue": "215"
+    },
+    {
+      "DMC": "3716",
+      "Floss Name": "Dusty Rose Medium Very Light",
+      "Hex Code": "#FFBDBD",
+      "Red": "255",
+      "Green": "189",
+      "Blue": "189"
+    },
+    {
+      "DMC": "962",
+      "Floss Name": "Dusty Rose Medium",
+      "Hex Code": "#E68A8A",
+      "Red": "230",
+      "Green": "138",
+      "Blue": "138"
+    },
+    {
+      "DMC": "961",
+      "Floss Name": "Dusty Rose Dark",
+      "Hex Code": "#CF7373",
+      "Red": "207",
+      "Green": "115",
+      "Blue": "115"
+    },
+    {
+      "DMC": "3833",
+      "Floss Name": "Raspberry Light",
+      "Hex Code": "#EA8699",
+      "Red": "234",
+      "Green": "134",
+      "Blue": "153"
+    },
+    {
+      "DMC": "3832",
+      "Floss Name": "Raspberry Medium",
+      "Hex Code": "#DB556E",
+      "Red": "219",
+      "Green": "85",
+      "Blue": "110"
+    },
+    {
+      "DMC": "3831",
+      "Floss Name": "Raspberry Dark",
+      "Hex Code": "#B32F48",
+      "Red": "179",
+      "Green": "47",
+      "Blue": "72"
+    },
+    {
+      "DMC": "777",
+      "Floss Name": "Raspberry Very Dark",
+      "Hex Code": "#913546",
+      "Red": "145",
+      "Green": "53",
+      "Blue": "70"
+    },
+    {
+      "DMC": "819",
+      "Floss Name": "Baby Pink Light",
+      "Hex Code": "#FFEEEB",
+      "Red": "255",
+      "Green": "238",
+      "Blue": "235"
+    },
+    {
+      "DMC": "3326",
+      "Floss Name": "Rose Light",
+      "Hex Code": "#FBADB4",
+      "Red": "251",
+      "Green": "173",
+      "Blue": "180"
+    },
+    {
+      "DMC": "776",
+      "Floss Name": "Pink Medium",
+      "Hex Code": "#FCB0B9",
+      "Red": "252",
+      "Green": "176",
+      "Blue": "185"
+    },
+    {
+      "DMC": "899",
+      "Floss Name": "Rose Medium",
+      "Hex Code": "#F27688",
+      "Red": "242",
+      "Green": "118",
+      "Blue": "136"
+    },
+    {
+      "DMC": "335",
+      "Floss Name": "Rose",
+      "Hex Code": "#EE546E",
+      "Red": "238",
+      "Green": "84",
+      "Blue": "110"
+    },
+    {
+      "DMC": "326",
+      "Floss Name": "Rose Very Dark",
+      "Hex Code": "#B33B4B",
+      "Red": "179",
+      "Green": "59",
+      "Blue": "75"
+    },
+    {
+      "DMC": "151",
+      "Floss Name": "Dusty Rose Very Light",
+      "Hex Code": "#F0CED4",
+      "Red": "240",
+      "Green": "206",
+      "Blue": "212"
+    },
+    {
+      "DMC": "3354",
+      "Floss Name": "Dusty Rose Light",
+      "Hex Code": "#E4A6AC",
+      "Red": "228",
+      "Green": "166",
+      "Blue": "172"
+    },
+    {
+      "DMC": "3733",
+      "Floss Name": "Dusty Rose",
+      "Hex Code": "#E8879B",
+      "Red": "232",
+      "Green": "135",
+      "Blue": "155"
+    },
+    {
+      "DMC": "3731",
+      "Floss Name": "Dusty Rose Very Dark",
+      "Hex Code": "#DA6783",
+      "Red": "218",
+      "Green": "103",
+      "Blue": "131"
+    },
+    {
+      "DMC": "3350",
+      "Floss Name": "Dusty Rose Ultra Dark",
+      "Hex Code": "#BC4365",
+      "Red": "188",
+      "Green": "67",
+      "Blue": "101"
+    },
+    {
+      "DMC": "150",
+      "Floss Name": "Dusty Rose Ultra Very Dark",
+      "Hex Code": "#AB0249",
+      "Red": "171",
+      "Green": "2",
+      "Blue": "73"
+    },
+    {
+      "DMC": "3689",
+      "Floss Name": "Mauve Light",
+      "Hex Code": "#FBBFC2",
+      "Red": "251",
+      "Green": "191",
+      "Blue": "194"
+    },
+    {
+      "DMC": "3688",
+      "Floss Name": "Mauve Medium",
+      "Hex Code": "#E7A9AC",
+      "Red": "231",
+      "Green": "169",
+      "Blue": "172"
+    },
+    {
+      "DMC": "3687",
+      "Floss Name": "Mauve",
+      "Hex Code": "#C96B70",
+      "Red": "201",
+      "Green": "107",
+      "Blue": "112"
+    },
+    {
+      "DMC": "3803",
+      "Floss Name": "Mauve Dark",
+      "Hex Code": "#AB3357",
+      "Red": "171",
+      "Green": "51",
+      "Blue": "87"
+    },
+    {
+      "DMC": "3685",
+      "Floss Name": "Mauve Very Dark",
+      "Hex Code": "#881531",
+      "Red": "136",
+      "Green": "21",
+      "Blue": "49"
+    },
+    {
+      "DMC": "605",
+      "Floss Name": "Cranberry Very Light",
+      "Hex Code": "#FFC0CD",
+      "Red": "255",
+      "Green": "192",
+      "Blue": "205"
+    },
+    {
+      "DMC": "604",
+      "Floss Name": "Cranberry Light",
+      "Hex Code": "#FFB0BE",
+      "Red": "255",
+      "Green": "176",
+      "Blue": "190"
+    },
+    {
+      "DMC": "603",
+      "Floss Name": "Cranberry",
+      "Hex Code": "#FFA4BE",
+      "Red": "255",
+      "Green": "164",
+      "Blue": "190"
+    },
+    {
+      "DMC": "602",
+      "Floss Name": "Cranberry Medium",
+      "Hex Code": "#E24874",
+      "Red": "226",
+      "Green": "72",
+      "Blue": "116"
+    },
+    {
+      "DMC": "601",
+      "Floss Name": "Cranberry Dark",
+      "Hex Code": "#D1286A",
+      "Red": "209",
+      "Green": "40",
+      "Blue": "106"
+    },
+    {
+      "DMC": "600",
+      "Floss Name": "Cranberry Very Dark",
+      "Hex Code": "#CD2F63",
+      "Red": "205",
+      "Green": "47",
+      "Blue": "99"
+    },
+    {
+      "DMC": "3806",
+      "Floss Name": "Cyclamen Pink Light",
+      "Hex Code": "#FF8CAE",
+      "Red": "255",
+      "Green": "140",
+      "Blue": "174"
+    },
+    {
+      "DMC": "3805",
+      "Floss Name": "Cyclamen Pink",
+      "Hex Code": "#F3478B",
+      "Red": "243",
+      "Green": "71",
+      "Blue": "139"
+    },
+    {
+      "DMC": "3804",
+      "Floss Name": "Cyclamen Pink Dark",
+      "Hex Code": "#E02876",
+      "Red": "224",
+      "Green": "40",
+      "Blue": "118"
+    },
+    {
+      "DMC": "3609",
+      "Floss Name": "Plum Ultra Light",
+      "Hex Code": "#F4AED7",
+      "Red": "244",
+      "Green": "174",
+      "Blue": "213"
+    },
+    {
+      "DMC": "3608",
+      "Floss Name": "Plum Very Light",
+      "Hex Code": "#EA9CC4",
+      "Red": "234",
+      "Green": "156",
+      "Blue": "196"
+    },
+    {
+      "DMC": "3607",
+      "Floss Name": "Plum Light",
+      "Hex Code": "#C54989",
+      "Red": "197",
+      "Green": "73",
+      "Blue": "137"
+    },
+    {
+      "DMC": "718",
+      "Floss Name": "Plum",
+      "Hex Code": "#9C2462",
+      "Red": "156",
+      "Green": "36",
+      "Blue": "98"
+    },
+    {
+      "DMC": "917",
+      "Floss Name": "Plum Medium",
+      "Hex Code": "#9B1359",
+      "Red": "155",
+      "Green": "19",
+      "Blue": "89"
+    },
+    {
+      "DMC": "915",
+      "Floss Name": "Plum Dark",
+      "Hex Code": "#820043",
+      "Red": "130",
+      "Green": "0",
+      "Blue": "67"
+    },
+    {
+      "DMC": "225",
+      "Floss Name": "Shell Pink Ultra Very Light",
+      "Hex Code": "#FFDFD7",
+      "Red": "255",
+      "Green": "223",
+      "Blue": "213"
+    },
+    {
+      "DMC": "224",
+      "Floss Name": "Shell Pink Very Light",
+      "Hex Code": "#EBB7AF",
+      "Red": "235",
+      "Green": "183",
+      "Blue": "175"
+    },
+    {
+      "DMC": "152",
+      "Floss Name": "Shell Pink Medium Light",
+      "Hex Code": "#E2A099",
+      "Red": "226",
+      "Green": "160",
+      "Blue": "153"
+    },
+    {
+      "DMC": "223",
+      "Floss Name": "Shell Pink Light",
+      "Hex Code": "#CC847C",
+      "Red": "204",
+      "Green": "132",
+      "Blue": "124"
+    },
+    {
+      "DMC": "3722",
+      "Floss Name": "Shell Pink Medium",
+      "Hex Code": "#BC6C64",
+      "Red": "188",
+      "Green": "108",
+      "Blue": "100"
+    },
+    {
+      "DMC": "3721",
+      "Floss Name": "Shell Pink Dark",
+      "Hex Code": "#A14B51",
+      "Red": "161",
+      "Green": "75",
+      "Blue": "81"
+    },
+    {
+      "DMC": "221",
+      "Floss Name": "Shell Pink Very Dark",
+      "Hex Code": "#883E43",
+      "Red": "136",
+      "Green": "62",
+      "Blue": "67"
+    },
+    {
+      "DMC": "778",
+      "Floss Name": "Antique Mauve Very Light",
+      "Hex Code": "#DFB3BB",
+      "Red": "223",
+      "Green": "179",
+      "Blue": "187"
+    },
+    {
+      "DMC": "3727",
+      "Floss Name": "Antique Mauve Light",
+      "Hex Code": "#DBA9B2",
+      "Red": "219",
+      "Green": "169",
+      "Blue": "178"
+    },
+    {
+      "DMC": "316",
+      "Floss Name": "Antique Mauve Medium",
+      "Hex Code": "#B7737F",
+      "Red": "183",
+      "Green": "115",
+      "Blue": "127"
+    },
+    {
+      "DMC": "3726",
+      "Floss Name": "Antique Mauve Dark",
+      "Hex Code": "#9B5B66",
+      "Red": "155",
+      "Green": "91",
+      "Blue": "102"
+    },
+    {
+      "DMC": "315",
+      "Floss Name": "Antique Mauve Medium Dark",
+      "Hex Code": "#814952",
+      "Red": "129",
+      "Green": "73",
+      "Blue": "82"
+    },
+    {
+      "DMC": "3802",
+      "Floss Name": "Antique Mauve Very Darkv",
+      "Hex Code": "#714149",
+      "Red": "113",
+      "Green": "65",
+      "Blue": "73"
+    },
+    {
+      "DMC": "902",
+      "Floss Name": "Garnet Very Dark",
+      "Hex Code": "#822637",
+      "Red": "130",
+      "Green": "38",
+      "Blue": "55"
+    },
+    {
+      "DMC": "3743",
+      "Floss Name": "Antique Violet Very Light",
+      "Hex Code": "#D7CBD3",
+      "Red": "215",
+      "Green": "203",
+      "Blue": "211"
+    },
+    {
+      "DMC": "3042",
+      "Floss Name": "Antique Violet Light",
+      "Hex Code": "#B79DA7",
+      "Red": "183",
+      "Green": "157",
+      "Blue": "167"
+    },
+    {
+      "DMC": "3041",
+      "Floss Name": "Antique Violet Medium",
+      "Hex Code": "#956F7C",
+      "Red": "149",
+      "Green": "111",
+      "Blue": "124"
+    },
+    {
+      "DMC": "3740",
+      "Floss Name": "Antique Violet Dark",
+      "Hex Code": "#785762",
+      "Red": "120",
+      "Green": "87",
+      "Blue": "98"
+    },
+    {
+      "DMC": "3836",
+      "Floss Name": "Grape Light",
+      "Hex Code": "#BA91AA",
+      "Red": "186",
+      "Green": "145",
+      "Blue": "170"
+    },
+    {
+      "DMC": "3835",
+      "Floss Name": "Grape Medium",
+      "Hex Code": "#946083",
+      "Red": "148",
+      "Green": "96",
+      "Blue": "131"
+    },
+    {
+      "DMC": "3834",
+      "Floss Name": "Grape Dark",
+      "Hex Code": "#72375D",
+      "Red": "114",
+      "Green": "55",
+      "Blue": "93"
+    },
+    {
+      "DMC": "154",
+      "Floss Name": "Grape Very Dark",
+      "Hex Code": "#572433",
+      "Red": "87",
+      "Green": "36",
+      "Blue": "51"
+    },
+    {
+      "DMC": "211",
+      "Floss Name": "Lavender Light",
+      "Hex Code": "#E3CBE3",
+      "Red": "227",
+      "Green": "203",
+      "Blue": "227"
+    },
+    {
+      "DMC": "210",
+      "Floss Name": "Lavender Medium",
+      "Hex Code": "#D29FC3",
+      "Red": "195",
+      "Green": "159",
+      "Blue": "195"
+    },
+    {
+      "DMC": "209",
+      "Floss Name": "Lavender Dark",
+      "Hex Code": "#A37BA7",
+      "Red": "163",
+      "Green": "123",
+      "Blue": "167"
+    },
+    {
+      "DMC": "208",
+      "Floss Name": "Lavender Very Dark",
+      "Hex Code": "#835B8B",
+      "Red": "131",
+      "Green": "91",
+      "Blue": "139"
+    },
+    {
+      "DMC": "3837",
+      "Floss Name": "Lavender Ultra Dark",
+      "Hex Code": "#6C3A6E",
+      "Red": "108",
+      "Green": "58",
+      "Blue": "110"
+    },
+    {
+      "DMC": "327",
+      "Floss Name": "Violet Dark",
+      "Hex Code": "#633666",
+      "Red": "99",
+      "Green": "54",
+      "Blue": "102"
+    },
+    {
+      "DMC": "153",
+      "Floss Name": "Violet Very Light",
+      "Hex Code": "#E6CCD9",
+      "Red": "230",
+      "Green": "204",
+      "Blue": "217"
+    },
+    {
+      "DMC": "554",
+      "Floss Name": "Violet Light",
+      "Hex Code": "#DBB3CB",
+      "Red": "219",
+      "Green": "179",
+      "Blue": "203"
+    },
+    {
+      "DMC": "553",
+      "Floss Name": "Violet",
+      "Hex Code": "#A3638B",
+      "Red": "163",
+      "Green": "99",
+      "Blue": "139"
+    },
+    {
+      "DMC": "552",
+      "Floss Name": "Violet Medium",
+      "Hex Code": "#803A6B",
+      "Red": "128",
+      "Green": "58",
+      "Blue": "107"
+    },
+    {
+      "DMC": "550",
+      "Floss Name": "Violet Very Dark",
+      "Hex Code": "#5C184E",
+      "Red": "92",
+      "Green": "24",
+      "Blue": "78"
+    },
+    {
+      "DMC": "3747",
+      "Floss Name": "Blue Violet Very Light",
+      "Hex Code": "#D3D7ED",
+      "Red": "211",
+      "Green": "215",
+      "Blue": "237"
+    },
+    {
+      "DMC": "341",
+      "Floss Name": "Blue Violet Light",
+      "Hex Code": "#B7BFDD",
+      "Red": "183",
+      "Green": "191",
+      "Blue": "221"
+    },
+    {
+      "DMC": "156",
+      "Floss Name": "Blue Violet Medium Light",
+      "Hex Code": "#A3AED1",
+      "Red": "163",
+      "Green": "174",
+      "Blue": "209"
+    },
+    {
+      "DMC": "340",
+      "Floss Name": "Blue Violet Medium",
+      "Hex Code": "#ADA7C7",
+      "Red": "173",
+      "Green": "167",
+      "Blue": "199"
+    },
+    {
+      "DMC": "155",
+      "Floss Name": "Blue Violet Medium Dark",
+      "Hex Code": "#9891B6",
+      "Red": "152",
+      "Green": "145",
+      "Blue": "182"
+    },
+    {
+      "DMC": "3746",
+      "Floss Name": "Blue Violet Dark",
+      "Hex Code": "#776B98",
+      "Red": "119",
+      "Green": "107",
+      "Blue": "152"
+    },
+    {
+      "DMC": "333",
+      "Floss Name": "Blue Violet Very Dark",
+      "Hex Code": "#5C5478",
+      "Red": "92",
+      "Green": "84",
+      "Blue": "120"
+    },
+    {
+      "DMC": "157",
+      "Floss Name": "Cornflower Blue Very Light",
+      "Hex Code": "#BBC3D9",
+      "Red": "187",
+      "Green": "195",
+      "Blue": "217"
+    },
+    {
+      "DMC": "794",
+      "Floss Name": "Cornflower Blue Light",
+      "Hex Code": "#8F9CC1",
+      "Red": "143",
+      "Green": "156",
+      "Blue": "193"
+    },
+    {
+      "DMC": "793",
+      "Floss Name": "Cornflower Blue Medium",
+      "Hex Code": "#707DA2",
+      "Red": "112",
+      "Green": "125",
+      "Blue": "162"
+    },
+    {
+      "DMC": "3807",
+      "Floss Name": "Cornflower Blue",
+      "Hex Code": "#60678C",
+      "Red": "96",
+      "Green": "103",
+      "Blue": "140"
+    },
+    {
+      "DMC": "792",
+      "Floss Name": "Cornflower Blue Dark",
+      "Hex Code": "#555B7B",
+      "Red": "85",
+      "Green": "91",
+      "Blue": "123"
+    },
+    {
+      "DMC": "158",
+      "Floss Name": "Cornflower Blue Very Dark",
+      "Hex Code": "#4C526E",
+      "Red": "76",
+      "Green": "82",
+      "Blue": "110"
+    },
+    {
+      "DMC": "791",
+      "Floss Name": "Cornflower Blue Very Dark",
+      "Hex Code": "#464563",
+      "Red": "70",
+      "Green": "69",
+      "Blue": "99"
+    },
+    {
+      "DMC": "3840",
+      "Floss Name": "Lavender Blue Light",
+      "Hex Code": "#B0C0DA",
+      "Red": "176",
+      "Green": "192",
+      "Blue": "218"
+    },
+    {
+      "DMC": "3839",
+      "Floss Name": "Lavender Blue Medium",
+      "Hex Code": "#7B8EAB",
+      "Red": "123",
+      "Green": "142",
+      "Blue": "171"
+    },
+    {
+      "DMC": "3838",
+      "Floss Name": "Lavender Blue Dark",
+      "Hex Code": "#5C7294",
+      "Red": "92",
+      "Green": "114",
+      "Blue": "148"
+    },
+    {
+      "DMC": "800",
+      "Floss Name": "Delft Blue Pale",
+      "Hex Code": "#C0CCDE",
+      "Red": "192",
+      "Green": "204",
+      "Blue": "222"
+    },
+    {
+      "DMC": "809",
+      "Floss Name": "Delft Blue",
+      "Hex Code": "#94A8C6",
+      "Red": "148",
+      "Green": "168",
+      "Blue": "198"
+    },
+    {
+      "DMC": "799",
+      "Floss Name": "Delft Blue Medium",
+      "Hex Code": "#748EB6",
+      "Red": "116",
+      "Green": "142",
+      "Blue": "182"
+    },
+    {
+      "DMC": "798",
+      "Floss Name": "Delft Blue Dark",
+      "Hex Code": "#466A8E",
+      "Red": "70",
+      "Green": "106",
+      "Blue": "142"
+    },
+    {
+      "DMC": "797",
+      "Floss Name": "Royal Blue",
+      "Hex Code": "#13477D",
+      "Red": "19",
+      "Green": "71",
+      "Blue": "125"
+    },
+    {
+      "DMC": "796",
+      "Floss Name": "Royal Blue Dark",
+      "Hex Code": "#11416D",
+      "Red": "17",
+      "Green": "65",
+      "Blue": "109"
+    },
+    {
+      "DMC": "820",
+      "Floss Name": "Royal Blue Very Dark",
+      "Hex Code": "#0E365C",
+      "Red": "14",
+      "Green": "54",
+      "Blue": "92"
+    },
+    {
+      "DMC": "162",
+      "Floss Name": "Blue Ultra Very Light",
+      "Hex Code": "#DBECF5",
+      "Red": "219",
+      "Green": "236",
+      "Blue": "245"
+    },
+    {
+      "DMC": "827",
+      "Floss Name": "Blue Very Light",
+      "Hex Code": "#BDDDED",
+      "Red": "189",
+      "Green": "221",
+      "Blue": "237"
+    },
+    {
+      "DMC": "813",
+      "Floss Name": "Blue Light",
+      "Hex Code": "#A1C2D7",
+      "Red": "161",
+      "Green": "194",
+      "Blue": "215"
+    },
+    {
+      "DMC": "826",
+      "Floss Name": "Blue Medium",
+      "Hex Code": "#6B9EBF",
+      "Red": "107",
+      "Green": "158",
+      "Blue": "191"
+    },
+    {
+      "DMC": "825",
+      "Floss Name": "Blue Dark",
+      "Hex Code": "#4781A5",
+      "Red": "71",
+      "Green": "129",
+      "Blue": "165"
+    },
+    {
+      "DMC": "824",
+      "Floss Name": "Blue Very Dark",
+      "Hex Code": "#396987",
+      "Red": "57",
+      "Green": "105",
+      "Blue": "135"
+    },
+    {
+      "DMC": "996",
+      "Floss Name": "Electric Blue Medium",
+      "Hex Code": "#30C2EC",
+      "Red": "48",
+      "Green": "194",
+      "Blue": "236"
+    },
+    {
+      "DMC": "3843",
+      "Floss Name": "Electric Blue",
+      "Hex Code": "#14AAD0",
+      "Red": "20",
+      "Green": "170",
+      "Blue": "208"
+    },
+    {
+      "DMC": "995",
+      "Floss Name": "Electric Blue Dark",
+      "Hex Code": "#2696B6",
+      "Red": "38",
+      "Green": "150",
+      "Blue": "182"
+    },
+    {
+      "DMC": "3846",
+      "Floss Name": "Turquoise Bright Light",
+      "Hex Code": "#06E3E6",
+      "Red": "6",
+      "Green": "227",
+      "Blue": "230"
+    },
+    {
+      "DMC": "3845",
+      "Floss Name": "Turquoise Bright Medium",
+      "Hex Code": "#04C4CA",
+      "Red": "4",
+      "Green": "196",
+      "Blue": "202"
+    },
+    {
+      "DMC": "3844",
+      "Floss Name": "Turquoise Bright Dark",
+      "Hex Code": "#12AEBA",
+      "Red": "18",
+      "Green": "174",
+      "Blue": "186"
+    },
+    {
+      "DMC": "159",
+      "Floss Name": "Blue Gray Light",
+      "Hex Code": "#C7CAD7",
+      "Red": "199",
+      "Green": "202",
+      "Blue": "215"
+    },
+    {
+      "DMC": "160",
+      "Floss Name": "Blue Gray Medium",
+      "Hex Code": "#999FB7",
+      "Red": "153",
+      "Green": "159",
+      "Blue": "183"
+    },
+    {
+      "DMC": "161",
+      "Floss Name": "Blue Gray",
+      "Hex Code": "#7880A4",
+      "Red": "120",
+      "Green": "128",
+      "Blue": "164"
+    },
+    {
+      "DMC": "3756",
+      "Floss Name": "Baby Blue Ultra Very Light",
+      "Hex Code": "#EEFCFC",
+      "Red": "238",
+      "Green": "252",
+      "Blue": "252"
+    },
+    {
+      "DMC": "775",
+      "Floss Name": "Baby Blue Very Light",
+      "Hex Code": "#D9EBF1",
+      "Red": "217",
+      "Green": "235",
+      "Blue": "241"
+    },
+    {
+      "DMC": "3841",
+      "Floss Name": "Baby Blue Pale",
+      "Hex Code": "#CDDFED",
+      "Red": "205",
+      "Green": "223",
+      "Blue": "237"
+    },
+    {
+      "DMC": "3325",
+      "Floss Name": "Baby Blue Light",
+      "Hex Code": "#B8D2E6",
+      "Red": "184",
+      "Green": "210",
+      "Blue": "230"
+    },
+    {
+      "DMC": "3755",
+      "Floss Name": "Baby Blue",
+      "Hex Code": "#92B4CE",
+      "Red": "147",
+      "Green": "180",
+      "Blue": "206"
+    },
+    {
+      "DMC": "334",
+      "Floss Name": "Baby Blue Medium",
+      "Hex Code": "#739FC1",
+      "Red": "115",
+      "Green": "159",
+      "Blue": "193"
+    },
+    {
+      "DMC": "322",
+      "Floss Name": "Baby Blue Dark",
+      "Hex Code": "#5A8FB8",
+      "Red": "90",
+      "Green": "143",
+      "Blue": "184"
+    },
+    {
+      "DMC": "312",
+      "Floss Name": "Baby Blue Very Dark",
+      "Hex Code": "#35668B",
+      "Red": "53",
+      "Green": "102",
+      "Blue": "139"
+    },
+    {
+      "DMC": "803",
+      "Floss Name": "Baby Blue Ultra Very Dark",
+      "Hex Code": "#2C597C",
+      "Red": "44",
+      "Green": "89",
+      "Blue": "124"
+    },
+    {
+      "DMC": "336",
+      "Floss Name": "Navy Blue",
+      "Hex Code": "#253B73",
+      "Red": "37",
+      "Green": "59",
+      "Blue": "115"
+    },
+    {
+      "DMC": "823",
+      "Floss Name": "Navy Blue Dark",
+      "Hex Code": "#213063",
+      "Red": "33",
+      "Green": "48",
+      "Blue": "99"
+    },
+    {
+      "DMC": "939",
+      "Floss Name": "Navy Blue Very Dark",
+      "Hex Code": "#1B2853",
+      "Red": "27",
+      "Green": "40",
+      "Blue": "83"
+    },
+    {
+      "DMC": "3753",
+      "Floss Name": "Antique Blue Ultra Very Light",
+      "Hex Code": "#DBE2E9",
+      "Red": "219",
+      "Green": "226",
+      "Blue": "233"
+    },
+    {
+      "DMC": "3752",
+      "Floss Name": "Antique Blue Very Light",
+      "Hex Code": "#C7D1DB",
+      "Red": "199",
+      "Green": "209",
+      "Blue": "219"
+    },
+    {
+      "DMC": "932",
+      "Floss Name": "Antique Blue Light",
+      "Hex Code": "#A2B5C6",
+      "Red": "162",
+      "Green": "181",
+      "Blue": "198"
+    },
+    {
+      "DMC": "931",
+      "Floss Name": "Antique Blue Medium",
+      "Hex Code": "#6A859E",
+      "Red": "106",
+      "Green": "133",
+      "Blue": "158"
+    },
+    {
+      "DMC": "930",
+      "Floss Name": "Antique Blue Dark",
+      "Hex Code": "#455C71",
+      "Red": "69",
+      "Green": "92",
+      "Blue": "113"
+    },
+    {
+      "DMC": "3750",
+      "Floss Name": "Antique Blue Very Dark",
+      "Hex Code": "#384C5E",
+      "Red": "56",
+      "Green": "76",
+      "Blue": "94"
+    },
+    {
+      "DMC": "828",
+      "Floss Name": "Sky Blue Very Light",
+      "Hex Code": "#C5E8ED",
+      "Red": "197",
+      "Green": "232",
+      "Blue": "237"
+    },
+    {
+      "DMC": "3761",
+      "Floss Name": "Sky Blue Light",
+      "Hex Code": "#ACD8E2",
+      "Red": "172",
+      "Green": "216",
+      "Blue": "226"
+    },
+    {
+      "DMC": "519",
+      "Floss Name": "Sky Blue",
+      "Hex Code": "#7EB1C8",
+      "Red": "126",
+      "Green": "177",
+      "Blue": "200"
+    },
+    {
+      "DMC": "518",
+      "Floss Name": "Wedgewood Light",
+      "Hex Code": "#4F93A7",
+      "Red": "79",
+      "Green": "147",
+      "Blue": "167"
+    },
+    {
+      "DMC": "3760",
+      "Floss Name": "Wedgewood Medium",
+      "Hex Code": "#3E85A2",
+      "Red": "62",
+      "Green": "133",
+      "Blue": "162"
+    },
+    {
+      "DMC": "517",
+      "Floss Name": "Wedgewood Dark",
+      "Hex Code": "#3B768F",
+      "Red": "59",
+      "Green": "118",
+      "Blue": "143"
+    },
+    {
+      "DMC": "3842",
+      "Floss Name": "Wedgewood Very Dark",
+      "Hex Code": "#32667C",
+      "Red": "50",
+      "Green": "102",
+      "Blue": "124"
+    },
+    {
+      "DMC": "311",
+      "Floss Name": "Wedgewood Ultra Very Dark",
+      "Hex Code": "#1C5066",
+      "Red": "28",
+      "Green": "80",
+      "Blue": "102"
+    },
+    {
+      "DMC": "747",
+      "Floss Name": "Peacock Blue Very Light",
+      "Hex Code": "#E5FCFD",
+      "Red": "229",
+      "Green": "252",
+      "Blue": "253"
+    },
+    {
+      "DMC": "3766",
+      "Floss Name": "Peacock Blue Light",
+      "Hex Code": "#99CFD9",
+      "Red": "153",
+      "Green": "207",
+      "Blue": "217"
+    },
+    {
+      "DMC": "807",
+      "Floss Name": "Peacock Blue",
+      "Hex Code": "#64ABBA",
+      "Red": "100",
+      "Green": "171",
+      "Blue": "186"
+    },
+    {
+      "DMC": "806",
+      "Floss Name": "Peacock Blue Dark",
+      "Hex Code": "#3D95A5",
+      "Red": "61",
+      "Green": "149",
+      "Blue": "165"
+    },
+    {
+      "DMC": "3765",
+      "Floss Name": "Peacock Blue Very Dark",
+      "Hex Code": "#347F8C",
+      "Red": "52",
+      "Green": "127",
+      "Blue": "140"
+    },
+    {
+      "DMC": "3811",
+      "Floss Name": "Turquoise Very Light",
+      "Hex Code": "#BCE3E6",
+      "Red": "188",
+      "Green": "227",
+      "Blue": "230"
+    },
+    {
+      "DMC": "598",
+      "Floss Name": "Turquoise Light",
+      "Hex Code": "#90C3CC",
+      "Red": "144",
+      "Green": "195",
+      "Blue": "204"
+    },
+    {
+      "DMC": "597",
+      "Floss Name": "Turquoise",
+      "Hex Code": "#5BA3B3",
+      "Red": "91",
+      "Green": "163",
+      "Blue": "179"
+    },
+    {
+      "DMC": "3810",
+      "Floss Name": "Turquoise Dark",
+      "Hex Code": "#488E9A",
+      "Red": "72",
+      "Green": "142",
+      "Blue": "154"
+    },
+    {
+      "DMC": "3809",
+      "Floss Name": "Turquoise Vy Dark",
+      "Hex Code": "#3F7C85",
+      "Red": "63",
+      "Green": "124",
+      "Blue": "133"
+    },
+    {
+      "DMC": "3808",
+      "Floss Name": "Turquoise Ultra Very Dark",
+      "Hex Code": "#366970",
+      "Red": "54",
+      "Green": "105",
+      "Blue": "112"
+    },
+    {
+      "DMC": "928",
+      "Floss Name": "Gray Green Very Light",
+      "Hex Code": "#DDE3E3",
+      "Red": "221",
+      "Green": "227",
+      "Blue": "227"
+    },
+    {
+      "DMC": "927",
+      "Floss Name": "Gray Green Light",
+      "Hex Code": "#BDCBCB",
+      "Red": "189",
+      "Green": "203",
+      "Blue": "203"
+    },
+    {
+      "DMC": "926",
+      "Floss Name": "Gray Green Medium",
+      "Hex Code": "#98AEAE",
+      "Red": "152",
+      "Green": "174",
+      "Blue": "174"
+    },
+    {
+      "DMC": "3768",
+      "Floss Name": "Gray Green Dark",
+      "Hex Code": "#657F7F",
+      "Red": "101",
+      "Green": "127",
+      "Blue": "127"
+    },
+    {
+      "DMC": "924",
+      "Floss Name": "Gray Green Vy Dark",
+      "Hex Code": "#566A6A",
+      "Red": "86",
+      "Green": "106",
+      "Blue": "106"
+    },
+    {
+      "DMC": "3849",
+      "Floss Name": "Teal Green Light",
+      "Hex Code": "#52B3AE",
+      "Red": "82",
+      "Green": "179",
+      "Blue": "164"
+    },
+    {
+      "DMC": "3848",
+      "Floss Name": "Teal Green Medium",
+      "Hex Code": "#419392",
+      "Red": "85",
+      "Green": "147",
+      "Blue": "146"
+    },
+    {
+      "DMC": "3847",
+      "Floss Name": "Teal Green Dark",
+      "Hex Code": "#347D75",
+      "Red": "52",
+      "Green": "125",
+      "Blue": "117"
+    },
+    {
+      "DMC": "964",
+      "Floss Name": "Sea Green Light",
+      "Hex Code": "#A9E2D8",
+      "Red": "169",
+      "Green": "226",
+      "Blue": "216"
+    },
+    {
+      "DMC": "959",
+      "Floss Name": "Sea Green Medium",
+      "Hex Code": "#59C7B4",
+      "Red": "89",
+      "Green": "199",
+      "Blue": "180"
+    },
+    {
+      "DMC": "958",
+      "Floss Name": "Sea Green Dark",
+      "Hex Code": "#3EB6A1",
+      "Red": "62",
+      "Green": "182",
+      "Blue": "161"
+    },
+    {
+      "DMC": "3812",
+      "Floss Name": "Sea Green Very Dark",
+      "Hex Code": "#2F8C84",
+      "Red": "47",
+      "Green": "140",
+      "Blue": "132"
+    },
+    {
+      "DMC": "3851",
+      "Floss Name": "Green Bright Light",
+      "Hex Code": "#49B3A1",
+      "Red": "73",
+      "Green": "179",
+      "Blue": "161"
+    },
+    {
+      "DMC": "943",
+      "Floss Name": "Green Bright Medium",
+      "Hex Code": "#3D9384",
+      "Red": "61",
+      "Green": "147",
+      "Blue": "132"
+    },
+    {
+      "DMC": "3850",
+      "Floss Name": "Green Bright Dark",
+      "Hex Code": "#378477",
+      "Red": "55",
+      "Green": "132",
+      "Blue": "119"
+    },
+    {
+      "DMC": "993",
+      "Floss Name": "Aquamarine Very Light",
+      "Hex Code": "#90C0B4",
+      "Red": "144",
+      "Green": "192",
+      "Blue": "180"
+    },
+    {
+      "DMC": "992",
+      "Floss Name": "Aquamarine Light",
+      "Hex Code": "#6FAE9F",
+      "Red": "111",
+      "Green": "174",
+      "Blue": "159"
+    },
+    {
+      "DMC": "3814",
+      "Floss Name": "Aquamarine",
+      "Hex Code": "#508B7D",
+      "Red": "80",
+      "Green": "139",
+      "Blue": "125"
+    },
+    {
+      "DMC": "991",
+      "Floss Name": "Aquamarine Dark",
+      "Hex Code": "#477B6E",
+      "Red": "71",
+      "Green": "123",
+      "Blue": "110"
+    },
+    {
+      "DMC": "966",
+      "Floss Name": "Jade Ultra Very Light",
+      "Hex Code": "#B9D7C0",
+      "Red": "185",
+      "Green": "215",
+      "Blue": "192"
+    },
+    {
+      "DMC": "564",
+      "Floss Name": "Jade Very Light",
+      "Hex Code": "#A7CDAF",
+      "Red": "167",
+      "Green": "205",
+      "Blue": "175"
+    },
+    {
+      "DMC": "563",
+      "Floss Name": "Jade Light",
+      "Hex Code": "#8FC098",
+      "Red": "143",
+      "Green": "192",
+      "Blue": "152"
+    },
+    {
+      "DMC": "562",
+      "Floss Name": "Jade Medium",
+      "Hex Code": "#53976A",
+      "Red": "83",
+      "Green": "151",
+      "Blue": "106"
+    },
+    {
+      "DMC": "505",
+      "Floss Name": "Jade Green",
+      "Hex Code": "#338362",
+      "Red": "51",
+      "Green": "131",
+      "Blue": "98"
+    },
+    {
+      "DMC": "3817",
+      "Floss Name": "Celadon Green Light",
+      "Hex Code": "#99C3AA",
+      "Red": "153",
+      "Green": "195",
+      "Blue": "170"
+    },
+    {
+      "DMC": "3816",
+      "Floss Name": "Celadon Green",
+      "Hex Code": "#65A57D",
+      "Red": "101",
+      "Green": "165",
+      "Blue": "125"
+    },
+    {
+      "DMC": "163",
+      "Floss Name": "Celadon Green Medium",
+      "Hex Code": "#4D8361",
+      "Red": "77",
+      "Green": "131",
+      "Blue": "97"
+    },
+    {
+      "DMC": "3815",
+      "Floss Name": "Celadon Green Dark",
+      "Hex Code": "#477759",
+      "Red": "71",
+      "Green": "119",
+      "Blue": "89"
+    },
+    {
+      "DMC": "561",
+      "Floss Name": "Celadon Green VD",
+      "Hex Code": "#2C6A45",
+      "Red": "44",
+      "Green": "106",
+      "Blue": "69"
+    },
+    {
+      "DMC": "504",
+      "Floss Name": "Blue Green Very Light",
+      "Hex Code": "#C4DECC",
+      "Red": "196",
+      "Green": "222",
+      "Blue": "204"
+    },
+    {
+      "DMC": "3813",
+      "Floss Name": "Blue Green Light",
+      "Hex Code": "#B2D4BD",
+      "Red": "178",
+      "Green": "212",
+      "Blue": "189"
+    },
+    {
+      "DMC": "503",
+      "Floss Name": "Blue Green Medium",
+      "Hex Code": "#7BAC94",
+      "Red": "123",
+      "Green": "172",
+      "Blue": "148"
+    },
+    {
+      "DMC": "502",
+      "Floss Name": "Blue Green",
+      "Hex Code": "#5B9071",
+      "Red": "91",
+      "Green": "144",
+      "Blue": "113"
+    },
+    {
+      "DMC": "501",
+      "Floss Name": "Blue Green Dark",
+      "Hex Code": "#396F52",
+      "Red": "57",
+      "Green": "111",
+      "Blue": "82"
+    },
+    {
+      "DMC": "500",
+      "Floss Name": "Blue Green Very Dark",
+      "Hex Code": "#044D33",
+      "Red": "4",
+      "Green": "77",
+      "Blue": "51"
+    },
+    {
+      "DMC": "955",
+      "Floss Name": "Nile Green Light",
+      "Hex Code": "#A2D6AD",
+      "Red": "162",
+      "Green": "214",
+      "Blue": "173"
+    },
+    {
+      "DMC": "954",
+      "Floss Name": "Nile Green",
+      "Hex Code": "#88BA91",
+      "Red": "136",
+      "Green": "186",
+      "Blue": "145"
+    },
+    {
+      "DMC": "913",
+      "Floss Name": "Nile Green Medium",
+      "Hex Code": "#6DAB77",
+      "Red": "109",
+      "Green": "171",
+      "Blue": "119"
+    },
+    {
+      "DMC": "912",
+      "Floss Name": "Emerald Green Light",
+      "Hex Code": "#1B9D6B",
+      "Red": "27",
+      "Green": "157",
+      "Blue": "107"
+    },
+    {
+      "DMC": "911",
+      "Floss Name": "Emerald Green Medium",
+      "Hex Code": "#189065",
+      "Red": "24",
+      "Green": "144",
+      "Blue": "101"
+    },
+    {
+      "DMC": "910",
+      "Floss Name": "Emerald Green Dark",
+      "Hex Code": "#187E56",
+      "Red": "24",
+      "Green": "126",
+      "Blue": "86"
+    },
+    {
+      "DMC": "909",
+      "Floss Name": "Emerald Green Very Dark",
+      "Hex Code": "#156F49",
+      "Red": "21",
+      "Green": "111",
+      "Blue": "73"
+    },
+    {
+      "DMC": "3818",
+      "Floss Name": "Emerald Green Ultra Very Dark",
+      "Hex Code": "#115A3B",
+      "Red": "17",
+      "Green": "90",
+      "Blue": "59"
+    },
+    {
+      "DMC": "369",
+      "Floss Name": "Pistachio Green Very Light",
+      "Hex Code": "#D7EDCC",
+      "Red": "215",
+      "Green": "237",
+      "Blue": "204"
+    },
+    {
+      "DMC": "368",
+      "Floss Name": "Pistachio Green Light",
+      "Hex Code": "#A6C298",
+      "Red": "166",
+      "Green": "194",
+      "Blue": "152"
+    },
+    {
+      "DMC": "320",
+      "Floss Name": "Pistachio Green Medium",
+      "Hex Code": "#69885A",
+      "Red": "105",
+      "Green": "136",
+      "Blue": "90"
+    },
+    {
+      "DMC": "367",
+      "Floss Name": "Pistachio Green Dark",
+      "Hex Code": "#617A52",
+      "Red": "97",
+      "Green": "122",
+      "Blue": "82"
+    },
+    {
+      "DMC": "319",
+      "Floss Name": "Pistachio Grn Very Dark",
+      "Hex Code": "#205F2E",
+      "Red": "32",
+      "Green": "95",
+      "Blue": "46"
+    },
+    {
+      "DMC": "890",
+      "Floss Name": "Pistachio Grn Ultra Very Dark",
+      "Hex Code": "#184923",
+      "Red": "23",
+      "Green": "73",
+      "Blue": "35"
+    },
+    {
+      "DMC": "164",
+      "Floss Name": "Forest Green Light",
+      "Hex Code": "#C8D8B8",
+      "Red": "200",
+      "Green": "216",
+      "Blue": "184"
+    },
+    {
+      "DMC": "989",
+      "Floss Name": "Forest Green",
+      "Hex Code": "#8DA675",
+      "Red": "141",
+      "Green": "166",
+      "Blue": "117"
+    },
+    {
+      "DMC": "988",
+      "Floss Name": "Forest Green Medium",
+      "Hex Code": "#738B5B",
+      "Red": "115",
+      "Green": "139",
+      "Blue": "91"
+    },
+    {
+      "DMC": "987",
+      "Floss Name": "Forest Green Dark",
+      "Hex Code": "#587141",
+      "Red": "88",
+      "Green": "113",
+      "Blue": "65"
+    },
+    {
+      "DMC": "986",
+      "Floss Name": "Forest Green Very Dark",
+      "Hex Code": "#405230",
+      "Red": "64",
+      "Green": "82",
+      "Blue": "48"
+    },
+    {
+      "DMC": "772",
+      "Floss Name": "Yellow Green Very Light",
+      "Hex Code": "#E4ECD4",
+      "Red": "228",
+      "Green": "236",
+      "Blue": "212"
+    },
+    {
+      "DMC": "3348",
+      "Floss Name": "Yellow Green Light",
+      "Hex Code": "#CCD9B1",
+      "Red": "204",
+      "Green": "217",
+      "Blue": "177"
+    },
+    {
+      "DMC": "3347",
+      "Floss Name": "Yellow Green Medium",
+      "Hex Code": "#71935C",
+      "Red": "113",
+      "Green": "147",
+      "Blue": "92"
+    },
+    {
+      "DMC": "3346",
+      "Floss Name": "Hunter Green",
+      "Hex Code": "#406A3A",
+      "Red": "64",
+      "Green": "106",
+      "Blue": "58"
+    },
+    {
+      "DMC": "3345",
+      "Floss Name": "Hunter Green Dark",
+      "Hex Code": "#1B5915",
+      "Red": "27",
+      "Green": "89",
+      "Blue": "21"
+    },
+    {
+      "DMC": "895",
+      "Floss Name": "Hunter Green Very Dark",
+      "Hex Code": "#1B5300",
+      "Red": "27",
+      "Green": "83",
+      "Blue": "0"
+    },
+    {
+      "DMC": "704",
+      "Floss Name": "Chartreuse Bright",
+      "Hex Code": "#9ECF34",
+      "Red": "158",
+      "Green": "207",
+      "Blue": "52"
+    },
+    {
+      "DMC": "703",
+      "Floss Name": "Chartreuse",
+      "Hex Code": "#7BB547",
+      "Red": "123",
+      "Green": "181",
+      "Blue": "71"
+    },
+    {
+      "DMC": "702",
+      "Floss Name": "Kelly Green",
+      "Hex Code": "#47A72F",
+      "Red": "71",
+      "Green": "167",
+      "Blue": "47"
+    },
+    {
+      "DMC": "701",
+      "Floss Name": "Green Light",
+      "Hex Code": "#3F8F29",
+      "Red": "63",
+      "Green": "143",
+      "Blue": "41"
+    },
+    {
+      "DMC": "700",
+      "Floss Name": "Green Bright",
+      "Hex Code": "#07731B",
+      "Red": "7",
+      "Green": "115",
+      "Blue": "27"
+    },
+    {
+      "DMC": "699",
+      "Floss Name": "Green",
+      "Hex Code": "#056517",
+      "Red": "5",
+      "Green": "101",
+      "Blue": "23"
+    },
+    {
+      "DMC": "907",
+      "Floss Name": "Parrot Green Light",
+      "Hex Code": "#C7E666",
+      "Red": "199",
+      "Green": "230",
+      "Blue": "102"
+    },
+    {
+      "DMC": "906",
+      "Floss Name": "Parrot Green Medium",
+      "Hex Code": "#7FB335",
+      "Red": "127",
+      "Green": "179",
+      "Blue": "53"
+    },
+    {
+      "DMC": "905",
+      "Floss Name": "Parrot Green Dark",
+      "Hex Code": "#628A28",
+      "Red": "98",
+      "Green": "138",
+      "Blue": "40"
+    },
+    {
+      "DMC": "904",
+      "Floss Name": "Parrot Green Very Dark",
+      "Hex Code": "#557822",
+      "Red": "85",
+      "Green": "120",
+      "Blue": "34"
+    },
+    {
+      "DMC": "472",
+      "Floss Name": "Avocado Green Ultra Light",
+      "Hex Code": "#D8E498",
+      "Red": "216",
+      "Green": "228",
+      "Blue": "152"
+    },
+    {
+      "DMC": "471",
+      "Floss Name": "Avocado Grn Very Light",
+      "Hex Code": "#AEBF79",
+      "Red": "174",
+      "Green": "191",
+      "Blue": "121"
+    },
+    {
+      "DMC": "470",
+      "Floss Name": "Avocado Grn Light",
+      "Hex Code": "#94AB4F",
+      "Red": "148",
+      "Green": "171",
+      "Blue": "79"
+    },
+    {
+      "DMC": "469",
+      "Floss Name": "Avocado Green",
+      "Hex Code": "#72843C",
+      "Red": "114",
+      "Green": "132",
+      "Blue": "60"
+    },
+    {
+      "DMC": "937",
+      "Floss Name": "Avocado Green Medium",
+      "Hex Code": "#627133",
+      "Red": "98",
+      "Green": "113",
+      "Blue": "51"
+    },
+    {
+      "DMC": "936",
+      "Floss Name": "Avocado Green Very Dark",
+      "Hex Code": "#4C5826",
+      "Red": "76",
+      "Green": "88",
+      "Blue": "38"
+    },
+    {
+      "DMC": "935",
+      "Floss Name": "Avocado Green Dark",
+      "Hex Code": "#424D21",
+      "Red": "66",
+      "Green": "77",
+      "Blue": "33"
+    },
+    {
+      "DMC": "934",
+      "Floss Name": "Avocado Grn Black",
+      "Hex Code": "#313919",
+      "Red": "49",
+      "Green": "57",
+      "Blue": "25"
+    },
+    {
+      "DMC": "523",
+      "Floss Name": "Fern Green Light",
+      "Hex Code": "#ABB197",
+      "Red": "171",
+      "Green": "177",
+      "Blue": "151"
+    },
+    {
+      "DMC": "3053",
+      "Floss Name": "Green Gray",
+      "Hex Code": "#9CA482",
+      "Red": "156",
+      "Green": "164",
+      "Blue": "130"
+    },
+    {
+      "DMC": "3052",
+      "Floss Name": "Green Gray Medium",
+      "Hex Code": "#889268",
+      "Red": "136",
+      "Green": "146",
+      "Blue": "104"
+    },
+    {
+      "DMC": "3051",
+      "Floss Name": "Green Gray Dark",
+      "Hex Code": "#5F6648",
+      "Red": "95",
+      "Green": "102",
+      "Blue": "72"
+    },
+    {
+      "DMC": "524",
+      "Floss Name": "Fern Green Very Light",
+      "Hex Code": "#C4CDAC",
+      "Red": "196",
+      "Green": "205",
+      "Blue": "172"
+    },
+    {
+      "DMC": "522",
+      "Floss Name": "Fern Green",
+      "Hex Code": "#969E7E",
+      "Red": "150",
+      "Green": "158",
+      "Blue": "126"
+    },
+    {
+      "DMC": "520",
+      "Floss Name": "Fern Green Dark",
+      "Hex Code": "#666D4F",
+      "Red": "102",
+      "Green": "109",
+      "Blue": "79"
+    },
+    {
+      "DMC": "3364",
+      "Floss Name": "Pine Green",
+      "Hex Code": "#83975F",
+      "Red": "131",
+      "Green": "151",
+      "Blue": "95"
+    },
+    {
+      "DMC": "3363",
+      "Floss Name": "Pine Green Medium",
+      "Hex Code": "#728256",
+      "Red": "114",
+      "Green": "130",
+      "Blue": "86"
+    },
+    {
+      "DMC": "3362",
+      "Floss Name": "Pine Green Dark",
+      "Hex Code": "#5E6B47",
+      "Red": "94",
+      "Green": "107",
+      "Blue": "71"
+    },
+    {
+      "DMC": "165",
+      "Floss Name": "Moss Green Very Light",
+      "Hex Code": "#EFF4A4",
+      "Red": "239",
+      "Green": "244",
+      "Blue": "164"
+    },
+    {
+      "DMC": "3819",
+      "Floss Name": "Moss Green Light",
+      "Hex Code": "#E0E868",
+      "Red": "224",
+      "Green": "232",
+      "Blue": "104"
+    },
+    {
+      "DMC": "166",
+      "Floss Name": "Moss Green Medium Light",
+      "Hex Code": "#C0C840",
+      "Red": "192",
+      "Green": "200",
+      "Blue": "64"
+    },
+    {
+      "DMC": "581",
+      "Floss Name": "Moss Green",
+      "Hex Code": "#A7AE38",
+      "Red": "167",
+      "Green": "174",
+      "Blue": "56"
+    },
+    {
+      "DMC": "580",
+      "Floss Name": "Moss Green Dark",
+      "Hex Code": "#888D33",
+      "Red": "136",
+      "Green": "141",
+      "Blue": "51"
+    },
+    {
+      "DMC": "734",
+      "Floss Name": "Olive Green Light",
+      "Hex Code": "#C7C077",
+      "Red": "199",
+      "Green": "192",
+      "Blue": "119"
+    },
+    {
+      "DMC": "733",
+      "Floss Name": "Olive Green Medium",
+      "Hex Code": "#BCB34C",
+      "Red": "188",
+      "Green": "179",
+      "Blue": "76"
+    },
+    {
+      "DMC": "732",
+      "Floss Name": "Olive Green",
+      "Hex Code": "#948C36",
+      "Red": "148",
+      "Green": "140",
+      "Blue": "54"
+    },
+    {
+      "DMC": "731",
+      "Floss Name": "Olive Green Dark",
+      "Hex Code": "#938B37",
+      "Red": "147",
+      "Green": "139",
+      "Blue": "55"
+    },
+    {
+      "DMC": "730",
+      "Floss Name": "Olive Green Very Dark",
+      "Hex Code": "#827B30",
+      "Red": "130",
+      "Green": "123",
+      "Blue": "48"
+    },
+    {
+      "DMC": "3013",
+      "Floss Name": "Khaki Green Light",
+      "Hex Code": "#B9B982",
+      "Red": "185",
+      "Green": "185",
+      "Blue": "130"
+    },
+    {
+      "DMC": "3012",
+      "Floss Name": "Khaki Green Medium",
+      "Hex Code": "#A6A75D",
+      "Red": "166",
+      "Green": "167",
+      "Blue": "93"
+    },
+    {
+      "DMC": "3011",
+      "Floss Name": "Khaki Green Dark",
+      "Hex Code": "#898A58",
+      "Red": "137",
+      "Green": "138",
+      "Blue": "88"
+    },
+    {
+      "DMC": "372",
+      "Floss Name": "Mustard Light",
+      "Hex Code": "#CCB784",
+      "Red": "204",
+      "Green": "183",
+      "Blue": "132"
+    },
+    {
+      "DMC": "371",
+      "Floss Name": "Mustard",
+      "Hex Code": "#BFA671",
+      "Red": "191",
+      "Green": "166",
+      "Blue": "113"
+    },
+    {
+      "DMC": "370",
+      "Floss Name": "Mustard Medium",
+      "Hex Code": "#B89D64",
+      "Red": "184",
+      "Green": "157",
+      "Blue": "100"
+    },
+    {
+      "DMC": "834",
+      "Floss Name": "Golden Olive Very Light",
+      "Hex Code": "#DBBE7F",
+      "Red": "219",
+      "Green": "190",
+      "Blue": "127"
+    },
+    {
+      "DMC": "833",
+      "Floss Name": "Golden Olive Light",
+      "Hex Code": "#C8AB6C",
+      "Red": "200",
+      "Green": "171",
+      "Blue": "108"
+    },
+    {
+      "DMC": "832",
+      "Floss Name": "Golden Olive",
+      "Hex Code": "#BD9B51",
+      "Red": "189",
+      "Green": "155",
+      "Blue": "81"
+    },
+    {
+      "DMC": "831",
+      "Floss Name": "Golden Olive Medium",
+      "Hex Code": "#AA8F56",
+      "Red": "170",
+      "Green": "143",
+      "Blue": "86"
+    },
+    {
+      "DMC": "830",
+      "Floss Name": "Golden Olive Dark",
+      "Hex Code": "#8D784B",
+      "Red": "141",
+      "Green": "120",
+      "Blue": "75"
+    },
+    {
+      "DMC": "829",
+      "Floss Name": "Golden Olive Very Dark",
+      "Hex Code": "#7E6B42",
+      "Red": "126",
+      "Green": "107",
+      "Blue": "66"
+    },
+    {
+      "DMC": "613",
+      "Floss Name": "Drab Brown Very Light",
+      "Hex Code": "#DCC4AA",
+      "Red": "220",
+      "Green": "196",
+      "Blue": "170"
+    },
+    {
+      "DMC": "612",
+      "Floss Name": "Drab Brown Light",
+      "Hex Code": "#BC9A78",
+      "Red": "188",
+      "Green": "154",
+      "Blue": "120"
+    },
+    {
+      "DMC": "611",
+      "Floss Name": "Drab Brown",
+      "Hex Code": "#967656",
+      "Red": "150",
+      "Green": "118",
+      "Blue": "86"
+    },
+    {
+      "DMC": "610",
+      "Floss Name": "Drab Brown Dark",
+      "Hex Code": "#796047",
+      "Red": "121",
+      "Green": "96",
+      "Blue": "71"
+    },
+    {
+      "DMC": "3047",
+      "Floss Name": "Yellow Beige Light",
+      "Hex Code": "#E7D6C1",
+      "Red": "231",
+      "Green": "214",
+      "Blue": "193"
+    },
+    {
+      "DMC": "3046",
+      "Floss Name": "Yellow Beige Medium",
+      "Hex Code": "#D8BC9A",
+      "Red": "216",
+      "Green": "188",
+      "Blue": "154"
+    },
+    {
+      "DMC": "3045",
+      "Floss Name": "Yellow Beige Dark",
+      "Hex Code": "#BC966A",
+      "Red": "188",
+      "Green": "150",
+      "Blue": "106"
+    },
+    {
+      "DMC": "167",
+      "Floss Name": "Yellow Beige Very Dark",
+      "Hex Code": "#A77C49",
+      "Red": "167",
+      "Green": "124",
+      "Blue": "73"
+    },
+    {
+      "DMC": "746",
+      "Floss Name": "Off White",
+      "Hex Code": "#FCFCEE",
+      "Red": "252",
+      "Green": "252",
+      "Blue": "238"
+    },
+    {
+      "DMC": "677",
+      "Floss Name": "Old Gold Very Light",
+      "Hex Code": "#F5ECCB",
+      "Red": "245",
+      "Green": "236",
+      "Blue": "203"
+    },
+    {
+      "DMC": "422",
+      "Floss Name": "Hazelnut Brown Light",
+      "Hex Code": "#C69F7B",
+      "Red": "198",
+      "Green": "159",
+      "Blue": "123"
+    },
+    {
+      "DMC": "3828",
+      "Floss Name": "Hazelnut Brown",
+      "Hex Code": "#B78B61",
+      "Red": "183",
+      "Green": "139",
+      "Blue": "97"
+    },
+    {
+      "DMC": "420",
+      "Floss Name": "Hazelnut Brown Dark",
+      "Hex Code": "#A07042",
+      "Red": "160",
+      "Green": "112",
+      "Blue": "66"
+    },
+    {
+      "DMC": "869",
+      "Floss Name": "Hazelnut Brown Very Dark",
+      "Hex Code": "#835E39",
+      "Red": "131",
+      "Green": "94",
+      "Blue": "57"
+    },
+    {
+      "DMC": "728",
+      "Floss Name": "Topaz",
+      "Hex Code": "#E4B468",
+      "Red": "228",
+      "Green": "180",
+      "Blue": "104"
+    },
+    {
+      "DMC": "783",
+      "Floss Name": "Topaz Medium",
+      "Hex Code": "#CE9124",
+      "Red": "206",
+      "Green": "145",
+      "Blue": "36"
+    },
+    {
+      "DMC": "782",
+      "Floss Name": "Topaz Dark",
+      "Hex Code": "#AE7720",
+      "Red": "174",
+      "Green": "119",
+      "Blue": "32"
+    },
+    {
+      "DMC": "781",
+      "Floss Name": "Topaz Very Dark",
+      "Hex Code": "#A26D20",
+      "Red": "162",
+      "Green": "109",
+      "Blue": "32"
+    },
+    {
+      "DMC": "780",
+      "Floss Name": "Topaz Ultra Very Dark",
+      "Hex Code": "#94631A",
+      "Red": "148",
+      "Green": "99",
+      "Blue": "26"
+    },
+    {
+      "DMC": "676",
+      "Floss Name": "Old Gold Light",
+      "Hex Code": "#E5CE97",
+      "Red": "229",
+      "Green": "206",
+      "Blue": "151"
+    },
+    {
+      "DMC": "729",
+      "Floss Name": "Old Gold Medium",
+      "Hex Code": "#D0A53E",
+      "Red": "208",
+      "Green": "165",
+      "Blue": "62"
+    },
+    {
+      "DMC": "680",
+      "Floss Name": "Old Gold Dark",
+      "Hex Code": "#BC8D0E",
+      "Red": "188",
+      "Green": "141",
+      "Blue": "14"
+    },
+    {
+      "DMC": "3829",
+      "Floss Name": "Old Gold Vy Dark",
+      "Hex Code": "#A98204",
+      "Red": "169",
+      "Green": "130",
+      "Blue": "4"
+    },
+    {
+      "DMC": "3822",
+      "Floss Name": "Straw Light",
+      "Hex Code": "#F6DC98",
+      "Red": "246",
+      "Green": "220",
+      "Blue": "152"
+    },
+    {
+      "DMC": "3821",
+      "Floss Name": "Straw",
+      "Hex Code": "#F3CE75",
+      "Red": "243",
+      "Green": "206",
+      "Blue": "117"
+    },
+    {
+      "DMC": "3820",
+      "Floss Name": "Straw Dark",
+      "Hex Code": "#DFB65F",
+      "Red": "223",
+      "Green": "182",
+      "Blue": "95"
+    },
+    {
+      "DMC": "3852",
+      "Floss Name": "Straw Very Dark",
+      "Hex Code": "#CD9D37",
+      "Red": "205",
+      "Green": "157",
+      "Blue": "55"
+    },
+    {
+      "DMC": "445",
+      "Floss Name": "Lemon Light",
+      "Hex Code": "#FFFB8B",
+      "Red": "255",
+      "Green": "251",
+      "Blue": "139"
+    },
+    {
+      "DMC": "307",
+      "Floss Name": "Lemon",
+      "Hex Code": "#FDED54",
+      "Red": "253",
+      "Green": "237",
+      "Blue": "84"
+    },
+    {
+      "DMC": "973",
+      "Floss Name": "Canary Bright",
+      "Hex Code": "#FFE300",
+      "Red": "255",
+      "Green": "227",
+      "Blue": "0"
+    },
+    {
+      "DMC": "444",
+      "Floss Name": "Lemon Dark",
+      "Hex Code": "#FFD600",
+      "Red": "255",
+      "Green": "214",
+      "Blue": "0"
+    },
+    {
+      "DMC": "3078",
+      "Floss Name": "Golden Yellow Very Light",
+      "Hex Code": "#FDF9CD",
+      "Red": "253",
+      "Green": "249",
+      "Blue": "205"
+    },
+    {
+      "DMC": "727",
+      "Floss Name": "Topaz Very Light",
+      "Hex Code": "#FFF1AF",
+      "Red": "255",
+      "Green": "241",
+      "Blue": "175"
+    },
+    {
+      "DMC": "726",
+      "Floss Name": "Topaz Light",
+      "Hex Code": "#FDD755",
+      "Red": "253",
+      "Green": "215",
+      "Blue": "85"
+    },
+    {
+      "DMC": "725",
+      "Floss Name": "Topaz Medium Light",
+      "Hex Code": "#FFC840",
+      "Red": "255",
+      "Green": "200",
+      "Blue": "64"
+    },
+    {
+      "DMC": "972",
+      "Floss Name": "Canary Deep",
+      "Hex Code": "#FFB515",
+      "Red": "255",
+      "Green": "181",
+      "Blue": "21"
+    },
+    {
+      "DMC": "745",
+      "Floss Name": "Yellow Pale Light",
+      "Hex Code": "#FFE9AD",
+      "Red": "255",
+      "Green": "233",
+      "Blue": "173"
+    },
+    {
+      "DMC": "744",
+      "Floss Name": "Yellow Pale",
+      "Hex Code": "#FFE793",
+      "Red": "255",
+      "Green": "231",
+      "Blue": "147"
+    },
+    {
+      "DMC": "743",
+      "Floss Name": "Yellow Medium",
+      "Hex Code": "#FED376",
+      "Red": "254",
+      "Green": "211",
+      "Blue": "118"
+    },
+    {
+      "DMC": "742",
+      "Floss Name": "Tangerine Light",
+      "Hex Code": "#FFBF57",
+      "Red": "255",
+      "Green": "191",
+      "Blue": "87"
+    },
+    {
+      "DMC": "741",
+      "Floss Name": "Tangerine Medium",
+      "Hex Code": "#FFA32B",
+      "Red": "255",
+      "Green": "163",
+      "Blue": "43"
+    },
+    {
+      "DMC": "740",
+      "Floss Name": "Tangerine",
+      "Hex Code": "#FF8B00",
+      "Red": "255",
+      "Green": "139",
+      "Blue": "0"
+    },
+    {
+      "DMC": "970",
+      "Floss Name": "Pumpkin Light",
+      "Hex Code": "#F78B13",
+      "Red": "247",
+      "Green": "139",
+      "Blue": "19"
+    },
+    {
+      "DMC": "971",
+      "Floss Name": "Pumpkin",
+      "Hex Code": "#F67F00",
+      "Red": "246",
+      "Green": "127",
+      "Blue": "0"
+    },
+    {
+      "DMC": "947",
+      "Floss Name": "Burnt Orange",
+      "Hex Code": "#FF7B4D",
+      "Red": "255",
+      "Green": "123",
+      "Blue": "77"
+    },
+    {
+      "DMC": "946",
+      "Floss Name": "Burnt Orange Medium",
+      "Hex Code": "#EB6307",
+      "Red": "235",
+      "Green": "99",
+      "Blue": "7"
+    },
+    {
+      "DMC": "900",
+      "Floss Name": "Burnt Orange Dark",
+      "Hex Code": "#D15807",
+      "Red": "209",
+      "Green": "88",
+      "Blue": "7"
+    },
+    {
+      "DMC": "967",
+      "Floss Name": "Apricot Very Light",
+      "Hex Code": "#FFDED5",
+      "Red": "255",
+      "Green": "222",
+      "Blue": "213"
+    },
+    {
+      "DMC": "3824",
+      "Floss Name": "Apricot Light",
+      "Hex Code": "#FECDC2",
+      "Red": "254",
+      "Green": "205",
+      "Blue": "194"
+    },
+    {
+      "DMC": "3341",
+      "Floss Name": "Apricot",
+      "Hex Code": "#FCAB98",
+      "Red": "252",
+      "Green": "171",
+      "Blue": "152"
+    },
+    {
+      "DMC": "3340",
+      "Floss Name": "Apricot Medium",
+      "Hex Code": "#FF836F",
+      "Red": "255",
+      "Green": "131",
+      "Blue": "111"
+    },
+    {
+      "DMC": "608",
+      "Floss Name": "Burnt Orange Bright",
+      "Hex Code": "#FD5D35",
+      "Red": "253",
+      "Green": "93",
+      "Blue": "53"
+    },
+    {
+      "DMC": "606",
+      "Floss Name": "Orange Red Bright",
+      "Hex Code": "#FA3203",
+      "Red": "250",
+      "Green": "50",
+      "Blue": "3"
+    },
+    {
+      "DMC": "951",
+      "Floss Name": "Tawny Light",
+      "Hex Code": "#FFE2CF",
+      "Red": "255",
+      "Green": "226",
+      "Blue": "207"
+    },
+    {
+      "DMC": "3856",
+      "Floss Name": "Mahogany Ultra Very Light",
+      "Hex Code": "#FFD3B5",
+      "Red": "255",
+      "Green": "211",
+      "Blue": "181"
+    },
+    {
+      "DMC": "722",
+      "Floss Name": "Orange Spice Light",
+      "Hex Code": "#F7976F",
+      "Red": "247",
+      "Green": "151",
+      "Blue": "111"
+    },
+    {
+      "DMC": "721",
+      "Floss Name": "Orange Spice Medium",
+      "Hex Code": "#F27842",
+      "Red": "242",
+      "Green": "120",
+      "Blue": "66"
+    },
+    {
+      "DMC": "720",
+      "Floss Name": "Orange Spice Dark",
+      "Hex Code": "#E55C1F",
+      "Red": "229",
+      "Green": "92",
+      "Blue": "31"
+    },
+    {
+      "DMC": "3825",
+      "Floss Name": "Pumpkin Pale",
+      "Hex Code": "#FDBD96",
+      "Red": "253",
+      "Green": "189",
+      "Blue": "150"
+    },
+    {
+      "DMC": "922",
+      "Floss Name": "Copper Light",
+      "Hex Code": "#E27323",
+      "Red": "226",
+      "Green": "115",
+      "Blue": "35"
+    },
+    {
+      "DMC": "921",
+      "Floss Name": "Copper",
+      "Hex Code": "#C66218",
+      "Red": "198",
+      "Green": "98",
+      "Blue": "24"
+    },
+    {
+      "DMC": "920",
+      "Floss Name": "Copper Medium",
+      "Hex Code": "#AC5414",
+      "Red": "172",
+      "Green": "84",
+      "Blue": "20"
+    },
+    {
+      "DMC": "919",
+      "Floss Name": "Red Copper",
+      "Hex Code": "#A64510",
+      "Red": "166",
+      "Green": "69",
+      "Blue": "16"
+    },
+    {
+      "DMC": "918",
+      "Floss Name": "Red Copper Dark",
+      "Hex Code": "#82340A",
+      "Red": "130",
+      "Green": "52",
+      "Blue": "10"
+    },
+    {
+      "DMC": "3770",
+      "Floss Name": "Tawny Vy Light",
+      "Hex Code": "#FFEEE3",
+      "Red": "255",
+      "Green": "238",
+      "Blue": "227"
+    },
+    {
+      "DMC": "945",
+      "Floss Name": "Tawny",
+      "Hex Code": "#FBD5BB",
+      "Red": "251",
+      "Green": "213",
+      "Blue": "187"
+    },
+    {
+      "DMC": "402",
+      "Floss Name": "Mahogany Very Light",
+      "Hex Code": "#F7A777",
+      "Red": "247",
+      "Green": "167",
+      "Blue": "119"
+    },
+    {
+      "DMC": "3776",
+      "Floss Name": "Mahogany Light",
+      "Hex Code": "#CF7939",
+      "Red": "207",
+      "Green": "121",
+      "Blue": "57"
+    },
+    {
+      "DMC": "301",
+      "Floss Name": "Mahogany Medium",
+      "Hex Code": "#B35F2B",
+      "Red": "179",
+      "Green": "95",
+      "Blue": "43"
+    },
+    {
+      "DMC": "400",
+      "Floss Name": "Mahogany Dark",
+      "Hex Code": "#8F430F",
+      "Red": "143",
+      "Green": "67",
+      "Blue": "15"
+    },
+    {
+      "DMC": "300",
+      "Floss Name": "Mahogany Very Dark",
+      "Hex Code": "#6F2F00",
+      "Red": "111",
+      "Green": "47",
+      "Blue": "0"
+    },
+    {
+      "DMC": "3823",
+      "Floss Name": "Yellow Ultra Pale",
+      "Hex Code": "#FFFDE3",
+      "Red": "255",
+      "Green": "253",
+      "Blue": "227"
+    },
+    {
+      "DMC": "3855",
+      "Floss Name": "Autumn Gold Light",
+      "Hex Code": "#FAD396",
+      "Red": "250",
+      "Green": "211",
+      "Blue": "150"
+    },
+    {
+      "DMC": "3854",
+      "Floss Name": "Autumn Gold Medium",
+      "Hex Code": "#F2AF68",
+      "Red": "242",
+      "Green": "175",
+      "Blue": "104"
+    },
+    {
+      "DMC": "3853",
+      "Floss Name": "Autumn Gold Dark",
+      "Hex Code": "#F29746",
+      "Red": "242",
+      "Green": "151",
+      "Blue": "70"
+    },
+    {
+      "DMC": "3827",
+      "Floss Name": "Golden Brown Pale",
+      "Hex Code": "#F7BB77",
+      "Red": "247",
+      "Green": "187",
+      "Blue": "119"
+    },
+    {
+      "DMC": "977",
+      "Floss Name": "Golden Brown Light",
+      "Hex Code": "#DC9C56",
+      "Red": "220",
+      "Green": "156",
+      "Blue": "86"
+    },
+    {
+      "DMC": "976",
+      "Floss Name": "Golden Brown Medium",
+      "Hex Code": "#C28142",
+      "Red": "194",
+      "Green": "129",
+      "Blue": "66"
+    },
+    {
+      "DMC": "3826",
+      "Floss Name": "Golden Brown",
+      "Hex Code": "#AD7239",
+      "Red": "173",
+      "Green": "114",
+      "Blue": "57"
+    },
+    {
+      "DMC": "975",
+      "Floss Name": "Golden Brown Dark",
+      "Hex Code": "#914F12",
+      "Red": "145",
+      "Green": "79",
+      "Blue": "18"
+    },
+    {
+      "DMC": "948",
+      "Floss Name": "Peach Very Light",
+      "Hex Code": "#FEE7DA",
+      "Red": "254",
+      "Green": "231",
+      "Blue": "218"
+    },
+    {
+      "DMC": "754",
+      "Floss Name": "Peach Light",
+      "Hex Code": "#F7CBBF",
+      "Red": "247",
+      "Green": "203",
+      "Blue": "191"
+    },
+    {
+      "DMC": "3771",
+      "Floss Name": "Terra Cotta Ultra Very Light",
+      "Hex Code": "#F4BBA9",
+      "Red": "244",
+      "Green": "187",
+      "Blue": "169"
+    },
+    {
+      "DMC": "758",
+      "Floss Name": "Terra Cotta Very Light",
+      "Hex Code": "#EEAA9B",
+      "Red": "238",
+      "Green": "170",
+      "Blue": "155"
+    },
+    {
+      "DMC": "3778",
+      "Floss Name": "Terra Cotta Light",
+      "Hex Code": "#D98978",
+      "Red": "217",
+      "Green": "137",
+      "Blue": "120"
+    },
+    {
+      "DMC": "356",
+      "Floss Name": "Terra Cotta Medium",
+      "Hex Code": "#C56A5B",
+      "Red": "197",
+      "Green": "106",
+      "Blue": "91"
+    },
+    {
+      "DMC": "3830",
+      "Floss Name": "Terra Cotta",
+      "Hex Code": "#BC5544",
+      "Red": "185",
+      "Green": "85",
+      "Blue": "68"
+    },
+    {
+      "DMC": "355",
+      "Floss Name": "Terra Cotta Dark",
+      "Hex Code": "#984436",
+      "Red": "152",
+      "Green": "68",
+      "Blue": "54"
+    },
+    {
+      "DMC": "3777",
+      "Floss Name": "Terra Cotta Very Dark",
+      "Hex Code": "#863022",
+      "Red": "134",
+      "Green": "48",
+      "Blue": "34"
+    },
+    {
+      "DMC": "3779",
+      "Floss Name": "Rosewood Ultra Very Light",
+      "Hex Code": "#F8CAC8",
+      "Red": "248",
+      "Green": "202",
+      "Blue": "200"
+    },
+    {
+      "DMC": "3859",
+      "Floss Name": "Rosewood Light",
+      "Hex Code": "#BA8B7C",
+      "Red": "186",
+      "Green": "139",
+      "Blue": "124"
+    },
+    {
+      "DMC": "3858",
+      "Floss Name": "Rosewood Medium",
+      "Hex Code": "#964A3F",
+      "Red": "150",
+      "Green": "74",
+      "Blue": "63"
+    },
+    {
+      "DMC": "3857",
+      "Floss Name": "Rosewood Dark",
+      "Hex Code": "#68251A",
+      "Red": "104",
+      "Green": "37",
+      "Blue": "26"
+    },
+    {
+      "DMC": "3774",
+      "Floss Name": "Desert Sand Very Light",
+      "Hex Code": "#F3E1D7",
+      "Red": "243",
+      "Green": "225",
+      "Blue": "215"
+    },
+    {
+      "DMC": "950",
+      "Floss Name": "Desert Sand Light",
+      "Hex Code": "#EED3C4",
+      "Red": "238",
+      "Green": "211",
+      "Blue": "196"
+    },
+    {
+      "DMC": "3064",
+      "Floss Name": "Desert Sand",
+      "Hex Code": "#C48E70",
+      "Red": "196",
+      "Green": "142",
+      "Blue": "112"
+    },
+    {
+      "DMC": "407",
+      "Floss Name": "Desert Sand Medium",
+      "Hex Code": "#BB8161",
+      "Red": "187",
+      "Green": "129",
+      "Blue": "97"
+    },
+    {
+      "DMC": "3773",
+      "Floss Name": "Desert Sand Dark",
+      "Hex Code": "#B67552",
+      "Red": "182",
+      "Green": "117",
+      "Blue": "82"
+    },
+    {
+      "DMC": "3772",
+      "Floss Name": "Desert Sand Very Dark",
+      "Hex Code": "#A06C50",
+      "Red": "160",
+      "Green": "108",
+      "Blue": "80"
+    },
+    {
+      "DMC": "632",
+      "Floss Name": "Desert Sand Ultra Very Dark",
+      "Hex Code": "#875539",
+      "Red": "135",
+      "Green": "85",
+      "Blue": "57"
+    },
+    {
+      "DMC": "453",
+      "Floss Name": "Shell Gray Light",
+      "Hex Code": "#D7CECB",
+      "Red": "215",
+      "Green": "206",
+      "Blue": "203"
+    },
+    {
+      "DMC": "452",
+      "Floss Name": "Shell Gray Medium",
+      "Hex Code": "#C0B3AE",
+      "Red": "192",
+      "Green": "179",
+      "Blue": "174"
+    },
+    {
+      "DMC": "451",
+      "Floss Name": "Shell Gray Dark",
+      "Hex Code": "#917B73",
+      "Red": "145",
+      "Green": "123",
+      "Blue": "115"
+    },
+    {
+      "DMC": "3861",
+      "Floss Name": "Cocoa Light",
+      "Hex Code": "#A68881",
+      "Red": "166",
+      "Green": "136",
+      "Blue": "129"
+    },
+    {
+      "DMC": "3860",
+      "Floss Name": "Cocoa",
+      "Hex Code": "#7D5D57",
+      "Red": "125",
+      "Green": "93",
+      "Blue": "87"
+    },
+    {
+      "DMC": "779",
+      "Floss Name": "Cocoa Dark",
+      "Hex Code": "#624B45",
+      "Red": "98",
+      "Green": "75",
+      "Blue": "69"
+    },
+    {
+      "DMC": "712",
+      "Floss Name": "Cream",
+      "Hex Code": "#FFFBEF",
+      "Red": "255",
+      "Green": "251",
+      "Blue": "239"
+    },
+    {
+      "DMC": "739",
+      "Floss Name": "Tan Ultra Very Light",
+      "Hex Code": "#F8E4C8",
+      "Red": "248",
+      "Green": "228",
+      "Blue": "200"
+    },
+    {
+      "DMC": "738",
+      "Floss Name": "Tan Very Light",
+      "Hex Code": "#ECCC9E",
+      "Red": "236",
+      "Green": "204",
+      "Blue": "158"
+    },
+    {
+      "DMC": "437",
+      "Floss Name": "Tan Light",
+      "Hex Code": "#E4BB8E",
+      "Red": "228",
+      "Green": "187",
+      "Blue": "142"
+    },
+    {
+      "DMC": "436",
+      "Floss Name": "Tan",
+      "Hex Code": "#CB9051",
+      "Red": "203",
+      "Green": "144",
+      "Blue": "81"
+    },
+    {
+      "DMC": "435",
+      "Floss Name": "Brown Very Light",
+      "Hex Code": "#B87748",
+      "Red": "184",
+      "Green": "119",
+      "Blue": "72"
+    },
+    {
+      "DMC": "434",
+      "Floss Name": "Brown Light",
+      "Hex Code": "#985E33",
+      "Red": "152",
+      "Green": "94",
+      "Blue": "51"
+    },
+    {
+      "DMC": "433",
+      "Floss Name": "Brown Medium",
+      "Hex Code": "#7A451F",
+      "Red": "122",
+      "Green": "69",
+      "Blue": "31"
+    },
+    {
+      "DMC": "801",
+      "Floss Name": "Coffee Brown Dark",
+      "Hex Code": "#653919",
+      "Red": "101",
+      "Green": "57",
+      "Blue": "25"
+    },
+    {
+      "DMC": "898",
+      "Floss Name": "Coffee Brown Very Dark",
+      "Hex Code": "#492A13",
+      "Red": "73",
+      "Green": "42",
+      "Blue": "19"
+    },
+    {
+      "DMC": "938",
+      "Floss Name": "Coffee Brown Ultra Dark",
+      "Hex Code": "#361F0E",
+      "Red": "54",
+      "Green": "31",
+      "Blue": "14"
+    },
+    {
+      "DMC": "3371",
+      "Floss Name": "Black Brown",
+      "Hex Code": "#1E1108",
+      "Red": "30",
+      "Green": "17",
+      "Blue": "8"
+    },
+    {
+      "DMC": "543",
+      "Floss Name": "Beige Brown Ultra Very Light",
+      "Hex Code": "#F2E3CE",
+      "Red": "242",
+      "Green": "227",
+      "Blue": "206"
+    },
+    {
+      "DMC": "3864",
+      "Floss Name": "Mocha Beige Light",
+      "Hex Code": "#CBB69C",
+      "Red": "203",
+      "Green": "182",
+      "Blue": "156"
+    },
+    {
+      "DMC": "3863",
+      "Floss Name": "Mocha Beige Medium",
+      "Hex Code": "#A4835C",
+      "Red": "164",
+      "Green": "131",
+      "Blue": "92"
+    },
+    {
+      "DMC": "3862",
+      "Floss Name": "Mocha Beige Dark",
+      "Hex Code": "#8A6E4E",
+      "Red": "138",
+      "Green": "110",
+      "Blue": "78"
+    },
+    {
+      "DMC": "3031",
+      "Floss Name": "Mocha Brown Very Dark",
+      "Hex Code": "#4B3C2A",
+      "Red": "75",
+      "Green": "60",
+      "Blue": "42"
+    },
+    {
+      "DMC": "B5200",
+      "Floss Name": "Snow White",
+      "Hex Code": "#FFFFFF",
+      "Red": "255",
+      "Green": "255",
+      "Blue": "255"
+    },
+    {
+      "DMC": "White",
+      "Floss Name": "White",
+      "Hex Code": "#FCFBF8",
+      "Red": "252",
+      "Green": "251",
+      "Blue": "248"
+    },
+    {
+      "DMC": "3865",
+      "Floss Name": "Winter White",
+      "Hex Code": "#F9F7F1",
+      "Red": "249",
+      "Green": "247",
+      "Blue": "241"
+    },
+    {
+      "DMC": "Ecru",
+      "Floss Name": "Ecru",
+      "Hex Code": "#F0EADA",
+      "Red": "240",
+      "Green": "234",
+      "Blue": "218"
+    },
+    {
+      "DMC": "822",
+      "Floss Name": "Beige Gray Light",
+      "Hex Code": "#E7E2D3",
+      "Red": "231",
+      "Green": "226",
+      "Blue": "211"
+    },
+    {
+      "DMC": "644",
+      "Floss Name": "Beige Gray Medium",
+      "Hex Code": "#DDD8CB",
+      "Red": "221",
+      "Green": "216",
+      "Blue": "203"
+    },
+    {
+      "DMC": "642",
+      "Floss Name": "Beige Gray Dark",
+      "Hex Code": "#A49878",
+      "Red": "164",
+      "Green": "152",
+      "Blue": "120"
+    },
+    {
+      "DMC": "640",
+      "Floss Name": "Beige Gray Very Dark",
+      "Hex Code": "#857B61",
+      "Red": "133",
+      "Green": "123",
+      "Blue": "97"
+    },
+    {
+      "DMC": "3787",
+      "Floss Name": "Brown Gray Dark",
+      "Hex Code": "#625D50",
+      "Red": "98",
+      "Green": "93",
+      "Blue": "80"
+    },
+    {
+      "DMC": "3021",
+      "Floss Name": "Brown Gray Very Dark",
+      "Hex Code": "#4F4B41",
+      "Red": "79",
+      "Green": "75",
+      "Blue": "65"
+    },
+    {
+      "DMC": "3024",
+      "Floss Name": "Brown Gray Very Light",
+      "Hex Code": "#EBEAE7",
+      "Red": "235",
+      "Green": "234",
+      "Blue": "231"
+    },
+    {
+      "DMC": "3023",
+      "Floss Name": "Brown Gray Light",
+      "Hex Code": "#B1AA97",
+      "Red": "177",
+      "Green": "170",
+      "Blue": "151"
+    },
+    {
+      "DMC": "3022",
+      "Floss Name": "Brown Gray Medium",
+      "Hex Code": "#8E9078",
+      "Red": "142",
+      "Green": "144",
+      "Blue": "120"
+    },
+    {
+      "DMC": "535",
+      "Floss Name": "Ash Gray Very Light",
+      "Hex Code": "#636458",
+      "Red": "99",
+      "Green": "100",
+      "Blue": "88"
+    },
+    {
+      "DMC": "3033",
+      "Floss Name": "Mocha Brown Very Light",
+      "Hex Code": "#E3D8CC",
+      "Red": "227",
+      "Green": "216",
+      "Blue": "204"
+    },
+    {
+      "DMC": "3782",
+      "Floss Name": "Mocha Brown Light",
+      "Hex Code": "#D2BCA6",
+      "Red": "210",
+      "Green": "188",
+      "Blue": "166"
+    },
+    {
+      "DMC": "3032",
+      "Floss Name": "Mocha Brown Medium",
+      "Hex Code": "#B39F8B",
+      "Red": "179",
+      "Green": "159",
+      "Blue": "139"
+    },
+    {
+      "DMC": "3790",
+      "Floss Name": "Beige Gray Ultra Dark",
+      "Hex Code": "#7F6A55",
+      "Red": "127",
+      "Green": "106",
+      "Blue": "85"
+    },
+    {
+      "DMC": "3781",
+      "Floss Name": "Mocha Brown Dark",
+      "Hex Code": "#6B5743",
+      "Red": "107",
+      "Green": "87",
+      "Blue": "67"
+    },
+    {
+      "DMC": "3866",
+      "Floss Name": "Mocha Brown Ultra Very Light",
+      "Hex Code": "#FAF6F0",
+      "Red": "250",
+      "Green": "246",
+      "Blue": "240"
+    },
+    {
+      "DMC": "842",
+      "Floss Name": "Beige Brown Very Light",
+      "Hex Code": "#D1BAA1",
+      "Red": "209",
+      "Green": "186",
+      "Blue": "161"
+    },
+    {
+      "DMC": "841",
+      "Floss Name": "Beige Brown Light",
+      "Hex Code": "#B69B7E",
+      "Red": "182",
+      "Green": "155",
+      "Blue": "126"
+    },
+    {
+      "DMC": "840",
+      "Floss Name": "Beige Brown Medium",
+      "Hex Code": "#9A7C5C",
+      "Red": "154",
+      "Green": "124",
+      "Blue": "92"
+    },
+    {
+      "DMC": "839",
+      "Floss Name": "Beige Brown Dark",
+      "Hex Code": "#675541",
+      "Red": "103",
+      "Green": "85",
+      "Blue": "65"
+    },
+    {
+      "DMC": "838",
+      "Floss Name": "Beige Brown Very Dark",
+      "Hex Code": "#594937",
+      "Red": "89",
+      "Green": "73",
+      "Blue": "55"
+    },
+    {
+      "DMC": "3072",
+      "Floss Name": "Beaver Gray Very Light",
+      "Hex Code": "#E6E8E8",
+      "Red": "230",
+      "Green": "232",
+      "Blue": "232"
+    },
+    {
+      "DMC": "648",
+      "Floss Name": "Beaver Gray Light",
+      "Hex Code": "#BCB4AC",
+      "Red": "188",
+      "Green": "180",
+      "Blue": "172"
+    },
+    {
+      "DMC": "647",
+      "Floss Name": "Beaver Gray Medium",
+      "Hex Code": "#B0A69C",
+      "Red": "176",
+      "Green": "166",
+      "Blue": "156"
+    },
+    {
+      "DMC": "646",
+      "Floss Name": "Beaver Gray Dark",
+      "Hex Code": "#877D73",
+      "Red": "135",
+      "Green": "125",
+      "Blue": "115"
+    },
+    {
+      "DMC": "645",
+      "Floss Name": "Beaver Gray Very Dark",
+      "Hex Code": "#6E655C",
+      "Red": "110",
+      "Green": "101",
+      "Blue": "92"
+    },
+    {
+      "DMC": "844",
+      "Floss Name": "Beaver Gray Ultra Dark",
+      "Hex Code": "#484848",
+      "Red": "72",
+      "Green": "72",
+      "Blue": "72"
+    },
+    {
+      "DMC": "762",
+      "Floss Name": "Pearl Gray Very Light",
+      "Hex Code": "#ECECEC",
+      "Red": "236",
+      "Green": "236",
+      "Blue": "236"
+    },
+    {
+      "DMC": "415",
+      "Floss Name": "Pearl Gray",
+      "Hex Code": "#D3D3D6",
+      "Red": "211",
+      "Green": "211",
+      "Blue": "214"
+    },
+    {
+      "DMC": "318",
+      "Floss Name": "Steel Gray Light",
+      "Hex Code": "#ABABAB",
+      "Red": "171",
+      "Green": "171",
+      "Blue": "171"
+    },
+    {
+      "DMC": "414",
+      "Floss Name": "Steel Gray Dark",
+      "Hex Code": "#8C8C8C",
+      "Red": "140",
+      "Green": "140",
+      "Blue": "140"
+    },
+    {
+      "DMC": "168",
+      "Floss Name": "Pewter Very Light",
+      "Hex Code": "#D1D1D1",
+      "Red": "209",
+      "Green": "209",
+      "Blue": "209"
+    },
+    {
+      "DMC": "169",
+      "Floss Name": "Pewter Light",
+      "Hex Code": "#848484",
+      "Red": "132",
+      "Green": "132",
+      "Blue": "132"
+    },
+    {
+      "DMC": "317",
+      "Floss Name": "Pewter Gray",
+      "Hex Code": "#6C6C6C",
+      "Red": "108",
+      "Green": "108",
+      "Blue": "108"
+    },
+    {
+      "DMC": "413",
+      "Floss Name": "Pewter Gray Dark",
+      "Hex Code": "#565656",
+      "Red": "86",
+      "Green": "86",
+      "Blue": "86"
+    },
+    {
+      "DMC": "3799",
+      "Floss Name": "Pewter Gray Very Dark",
+      "Hex Code": "#424242",
+      "Red": "66",
+      "Green": "66",
+      "Blue": "66"
+    },
+    {
+      "DMC": "310",
+      "Floss Name": "Black",
+      "Hex Code": "#000000",
+      "Red": "0",
+      "Green": "0",
+      "Blue": "0"
+    },
+    {
+      "DMC": "1",
+      "Floss Name": "White Tin",
+      "Hex Code": "#E3E3E6",
+      "Red": "227",
+      "Green": "227",
+      "Blue": "230"
+    },
+    {
+      "DMC": "2",
+      "Floss Name": "Tin",
+      "Hex Code": "#D7D7D8",
+      "Red": "215",
+      "Green": "215",
+      "Blue": "216"
+    },
+    {
+      "DMC": "3",
+      "Floss Name": "Tin Medium",
+      "Hex Code": "#B8B8BB",
+      "Red": "184",
+      "Green": "184",
+      "Blue": "187"
+    },
+    {
+      "DMC": "4",
+      "Floss Name": "Tin Dark",
+      "Hex Code": "#AEAEB1",
+      "Red": "174",
+      "Green": "174",
+      "Blue": "177"
+    },
+    {
+      "DMC": "5",
+      "Floss Name": "Driftwood Light",
+      "Hex Code": "#E3CCBE",
+      "Red": "227",
+      "Green": "204",
+      "Blue": "190"
+    },
+    {
+      "DMC": "6",
+      "Floss Name": "Driftwood Medium Light",
+      "Hex Code": "#DCC6B8",
+      "Red": "220",
+      "Green": "198",
+      "Blue": "184"
+    },
+    {
+      "DMC": "7",
+      "Floss Name": "Driftwood",
+      "Hex Code": "#8F7B6E",
+      "Red": "143",
+      "Green": "123",
+      "Blue": "110"
+    },
+    {
+      "DMC": "8",
+      "Floss Name": "Driftwood Dark",
+      "Hex Code": "#6A5046",
+      "Red": "106",
+      "Green": "80",
+      "Blue": "70"
+    },
+    {
+      "DMC": "9",
+      "Floss Name": "Cocoa Very Dark",
+      "Hex Code": "#552014",
+      "Red": "85",
+      "Green": "32",
+      "Blue": "14"
+    },
+    {
+      "DMC": "10",
+      "Floss Name": "Tender Green Very Light",
+      "Hex Code": "#EDFED9",
+      "Red": "237",
+      "Green": "254",
+      "Blue": "217"
+    },
+    {
+      "DMC": "11",
+      "Floss Name": "Tender Green Light",
+      "Hex Code": "#E2EDB5",
+      "Red": "226",
+      "Green": "237",
+      "Blue": "181"
+    },
+    {
+      "DMC": "12",
+      "Floss Name": "Tender Green",
+      "Hex Code": "#CDD99A",
+      "Red": "205",
+      "Green": "217",
+      "Blue": "154"
+    },
+    {
+      "DMC": "13",
+      "Floss Name": "Nile Green Medium Light",
+      "Hex Code": "#BFF6E0",
+      "Red": "191",
+      "Green": "246",
+      "Blue": "224"
+    },
+    {
+      "DMC": "14",
+      "Floss Name": "Apple Green Pale",
+      "Hex Code": "#D0FBB2",
+      "Red": "208",
+      "Green": "251",
+      "Blue": "178"
+    },
+    {
+      "DMC": "15",
+      "Floss Name": "Apple Green",
+      "Hex Code": "#D1EDA4",
+      "Red": "209",
+      "Green": "237",
+      "Blue": "164"
+    },
+    {
+      "DMC": "16",
+      "Floss Name": "Chartreuse Light",
+      "Hex Code": "#C9C258",
+      "Red": "201",
+      "Green": "194",
+      "Blue": "88"
+    },
+    {
+      "DMC": "17",
+      "Floss Name": "Yellow Plum Light",
+      "Hex Code": "#E5E272",
+      "Red": "229",
+      "Green": "226",
+      "Blue": "114"
+    },
+    {
+      "DMC": "18",
+      "Floss Name": "Yellow Plum",
+      "Hex Code": "#D9D56D",
+      "Red": "217",
+      "Green": "213",
+      "Blue": "109"
+    },
+    {
+      "DMC": "19",
+      "Floss Name": "Autumn Gold medium Light",
+      "Hex Code": "#F7C95F",
+      "Red": "247",
+      "Green": "201",
+      "Blue": "95"
+    },
+    {
+      "DMC": "20",
+      "Floss Name": "Shrimp",
+      "Hex Code": "#F7AF93",
+      "Red": "247",
+      "Green": "175",
+      "Blue": "147"
+    },
+    {
+      "DMC": "21",
+      "Floss Name": "Alizarin Light",
+      "Hex Code": "#D79982",
+      "Red": "215",
+      "Green": "153",
+      "Blue": "130"
+    },
+    {
+      "DMC": "22",
+      "Floss Name": "Alizarin",
+      "Hex Code": "#BC604E",
+      "Red": "188",
+      "Green": "96",
+      "Blue": "78"
+    },
+    {
+      "DMC": "23",
+      "Floss Name": "Apple Blossom",
+      "Hex Code": "#EDE2ED",
+      "Red": "237",
+      "Green": "226",
+      "Blue": "237"
+    },
+    {
+      "DMC": "24",
+      "Floss Name": "White Lavender",
+      "Hex Code": "#E0D7EE",
+      "Red": "224",
+      "Green": "215",
+      "Blue": "238"
+    },
+    {
+      "DMC": "25",
+      "Floss Name": "Lavender Ultra Light",
+      "Hex Code": "#DAD2E9",
+      "Red": "218",
+      "Green": "210",
+      "Blue": "233"
+    },
+    {
+      "DMC": "26",
+      "Floss Name": "Lavender Pale",
+      "Hex Code": "#D7CAE6",
+      "Red": "215",
+      "Green": "202",
+      "Blue": "230"
+    },
+    {
+      "DMC": "27",
+      "Floss Name": "White Violet",
+      "Hex Code": "#F0EEF9",
+      "Red": "240",
+      "Green": "238",
+      "Blue": "249"
+    },
+    {
+      "DMC": "28",
+      "Floss Name": "Eggplant Medium Light",
+      "Hex Code": "#9086A9",
+      "Red": "144",
+      "Green": "134",
+      "Blue": "169"
+    },
+    {
+      "DMC": "29",
+      "Floss Name": "Eggplant",
+      "Hex Code": "#674076",
+      "Red": "103",
+      "Green": "64",
+      "Blue": "118"
+    },
+    {
+      "DMC": "30",
+      "Floss Name": "Blueberry Medium Light",
+      "Hex Code": "#7D77A5",
+      "Red": "125",
+      "Green": "119",
+      "Blue": "165"
+    },
+    {
+      "DMC": "31",
+      "Floss Name": "Blueberry",
+      "Hex Code": "#50518D",
+      "Red": "80",
+      "Green": "81",
+      "Blue": "141"
+    },
+    {
+      "DMC": "32",
+      "Floss Name": "Blueberry Dark",
+      "Hex Code": "#4D2E8A",
+      "Red": "77",
+      "Green": "46",
+      "Blue": "138"
+    },
+    {
+      "DMC": "33",
+      "Floss Name": "Fuschia",
+      "Hex Code": "#9C599C",
+      "Red": "156",
+      "Green": "89",
+      "Blue": "158"
+    },
+    {
+      "DMC": "34",
+      "Floss Name": "Fuschia Dark",
+      "Hex Code": "#7D3064",
+      "Red": "125",
+      "Green": "48",
+      "Blue": "100"
+    },
+    {
+      "DMC": "35",
+      "Floss Name": "Fuschia Very Dark",
+      "Hex Code": "#46052D",
+      "Red": "70",
+      "Green": "5",
+      "Blue": "45"
+    }
+  ]
+}
