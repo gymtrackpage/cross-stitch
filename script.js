@@ -52,7 +52,6 @@ function loadImage(url) {
     ctx.fillStyle = closestColor.Hex;
     ctx.fillRect(i / 4 % canvas.width, Math.floor(i / 4 / canvas.width), 1, 1);
   }
-}
 
 function findClosestColor(r, g, b, colors) {
   let closestColor = null;
