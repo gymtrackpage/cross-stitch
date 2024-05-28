@@ -1,29 +1,39 @@
+document.getElementById('convertButton').addEventListener('click', convertImage);
+
 async function convertImage() {
-  const imageUrl = document.getElementById('imageUrl').value;
-  const canvas = document.getElementById('canvas');
-  const ctx = canvas.getContext('2d');
+    const imageUrl = document.getElementById('imageUrl').value;
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
 
-  try {
-    const response = await fetch('colors.json');
-    const colors = await response.json();
+    try {
+        const response = await fetch('colors.json');
+        const colors = await response.json();
 
-    const image = await loadImage(imageUrl);
-    canvas.width = image.width;
-    canvas.height = image.height;
-    ctx.drawImage(image, 0, 0);
+        const image = await loadImage(imageUrl);
+        canvas.width = image.width;
+        canvas.height = image.height;
+        ctx.drawImage(image, 0, 0);
 
-    // Pixelation (replace with your actual pixelation logic)
-    for (let y = 0; y < canvas.height; y += 10) {
-      for (let x = 0; x < canvas.width; x += 10) {
-        const pixelData = ctx.getImageData(x, y, 10, 10).data;
-        ctx.fillStyle = rgb(${pixelData[0]}, ${pixelData[1]}, ${pixelData[2]});
-        ctx.fillRect(x, y, 10, 10);
-      }
+        // Color Matching and Pattern Generation (replace with your pattern drawing logic)
+        const pixelData = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
+        for (let i = 0; i < pixelData.length; i += 4) {
+            const r = pixelData[i];
+            const g = pixelData[i + 1];
+            const b = pixelData[i + 2];
+
+            const closestColor = findClosestColor(r, g, b, colors);
+            ctx.fillStyle = closestColor.Hex;
+
+            // Instead of fillRect, draw your stitch pattern here
+            const x = i / 4 % canvas.width;
+            const y = Math.floor(i / 4 / canvas.width);
+            // Example: Draw a small square for each stitch
+            ctx.fillRect(x, y, 5, 5); // Adjust size as needed
+        }
+    } catch (error) {
+        console.error("Error converting image:", error);
+        // Add error handling UI (e.g., display an error message to the user)
     }
-  } catch (error) {
-    console.error("Error converting image:", error);
-    // Add error handling UI (e.g., display an error message to the user)
-  }
 }
 
 function loadImage(url) {
